@@ -1,7 +1,7 @@
 ---
 title: "TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization"
 collection: publications
-category: journal
+category: Journal Articles
 permalink: https://doi.org/10.48550/arXiv.2503.03276
 excerpt: "A hybrid architecture integrating KAN and GCN for robust urban traffic forecasting."
 date: 2025-03-06
