@@ -13,9 +13,9 @@ redirect_from:
 Short Bio
 ======
 
-## 👨‍🎓 Gabriel Jiayi Zhang / 张珈译
+👨‍🎓 Gabriel Jiayi Zhang / 张珈译
 
-I am an 1st year undergraduate student in **Mathematics and Applied Mathematics** at the **University of Nottingham Ningbo China (UNNC)**. My research interests lie in:
+I am an 1st year undergraduate student in Mathematics and Applied Mathematics at the **University of Nottingham Ningbo China (UNNC)**. My research interests lie in:
 
 - **Graph Convolutional Networks (GCNs)**
 - **Multimodal Large Language Models (MM-LLMs)**
@@ -23,6 +23,7 @@ I am an 1st year undergraduate student in **Mathematics and Applied Mathematics*
 
 I am currently leading the development of a **federated spectral-aware spatio-graph forecasting framework** with **fairness-aware aggregation mechanisms**, targeting submission to **AAAI 2025**. I am also a co-author of multiple peer-reviewed papers currently under review or accepted at international journals and conferences.
 
+You can find my <span style="color:blue">Google Scholar</span> here: [Jiayi Zhang](https://scholar.google.com/citations?user=bLUpHDsAAAAJ). <span style="color:blue">Github Site</span> here: [Jiayi Zhang](https://github.com/ZhangJiayi24)
 ---
 
 ### Selected Publications:
