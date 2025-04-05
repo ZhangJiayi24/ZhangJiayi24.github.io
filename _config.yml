@@ -24,22 +24,24 @@ repository               : "ZhangJiayi24/ZhangJiayi24.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  author:
   avatar           : "profile.png"
   name             : "Jiayi Zhang / 张珈译"
-  pronouns         : "he/him"  
+  pronouns         : "he/him"
   bio              : "Undergraduate @ UNNC. Interested in GCN, MM-LLMs and AI for science."
   location         : "Ningbo, China"
   employer         : "University of Nottingham Ningbo China"
-  uri              : # URL
-  email            : "smyjz19@nottingham.edu.cn" 
+  uri              : 
+  email            : "smyjz19@nottingham.edu.cn"
+
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=bLUpHDsAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -76,7 +78,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
+  wechat           : "wechat_qr.jpg"
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
