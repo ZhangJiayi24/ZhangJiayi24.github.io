@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a printable PDF version of my CV 👉  
-📄 [ZJY_Resume.pdf](/files/ZJY_Resume.pdf)
+Download a printable PDF version of my CV 👉  📄 [ZJY_Resume.pdf](/files/ZJY_Resume.pdf)
 
 ---
 
@@ -52,5 +51,4 @@ Teaching
 
 Service and Leadership
 ======
-* Undergraduate Research Lead on Federated GNN Forecasting @ UNNC
-* Contributor to open-source academic codebases
+* Undergraduate Research Lead on Federated GCN Forecasting @ UNNC
