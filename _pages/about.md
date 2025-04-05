@@ -23,7 +23,7 @@ I am a 1st year undergraduate student in Mathematics and Applied Mathematics at 
 
 You can find my <span style="color:blue">Google Scholar</span> here: [Jiayi Zhang](https://scholar.google.com/citations?user=bLUpHDsAAAAJ). <span style="color:blue">Github Site</span> here: [Jiayi Zhang](https://github.com/ZhangJiayi24)
 
-I am currently leading the development of a **federated spectral-aware spatio-graph forecasting framework** with **fairness-aware aggregation mechanisms**, targeting submission to **AAAI 2025**. I am also a co-author of multiple peer-reviewed papers currently under review or accepted at international journals and conferences.
+I am currently leading the development of a **federated spectral-aware spatio-graph forecasting framework** with **fairness-aware aggregation mechanisms**, targeting submission to **AAAI 2026**. I am also a co-author of multiple peer-reviewed papers currently under review or accepted at international journals and conferences.
 
 ---
 
