@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Download a printable PDF version of my CV 👉  
+📄 [ZJY_Resume.pdf](/files/ZJY_Resume.pdf)
+
+---
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* BSc in Mathematics and Applied Mathematics, University of Nottingham Ningbo China (UNNC), 2024 – 2028 (Expected)
   
+Honors and Awards
+======
+* 🥈 Silver Medal, China Mathematical Olympiad (CMO), 2022
+
+Research Interests
+======
+* Graph Convolutional Networks (GCNs)
+* Multimodal Large Language Models (MM-LLMs)
+* Spectral Graph Representation Learning
+* AI for Science
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, MATLAB, LaTeX, C, HTML/CSS/JavaScript
+* Frameworks: PyTorch, TensorFlow, scikit-learn
+* Tools: Git, Docker, Google Colab, Jupyter
+* Models: GCN, LSTM, Transformer, CNN, KAN, GAN
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* *(None yet)*
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* *(None yet)*
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Undergraduate Research Lead on Federated GNN Forecasting @ UNNC
+* Contributor to open-source academic codebases
