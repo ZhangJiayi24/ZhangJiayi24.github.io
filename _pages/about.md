@@ -17,9 +17,10 @@ Short Bio
 
 I am a 1st year undergraduate student in Mathematics and Applied Mathematics at the **University of Nottingham Ningbo China (UNNC)**. My research interests lie in:
 
-- **Graph Convolutional Networks (GCNs)**
+- **Embodied Intelligence**
 - **Multimodal Large Language Models (MM-LLMs)**
-- **AI for Science**
+- **AI for Science: Genomics, Physics and Chemistry…**
+- **Graph Convolutional Networks (GCNs)**
 
 You can find my <span style="color:blue">Google Scholar</span> here: [Jiayi Zhang](https://scholar.google.com/citations?user=bLUpHDsAAAAJ). <span style="color:blue">Github Site</span> here: [Jiayi Zhang](https://github.com/ZhangJiayi24)
 
