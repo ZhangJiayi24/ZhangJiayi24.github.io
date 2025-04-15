@@ -15,7 +15,7 @@ Short Bio
 
 👨‍🎓 Gabriel Jiayi Zhang / 张珈译
 
-I am a 1st year undergraduate student in Mathematics and Applied Mathematics at the **University of Nottingham (UNUK)**. My research interests lie in:
+I am a 1st year undergraduate student in Mathematics and Applied Mathematics at the **University of Nottingham Ningbo China(UNNC)**. My research interests lie in:
 
 - **Embodied Intelligence**
 - **Multimodal Large Language Models (MM-LLMs)**
