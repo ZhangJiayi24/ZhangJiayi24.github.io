@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a printable PDF version of my CV 👉  📄 [Jiayi_Zhang_Resume.pdf](/files/Jiayi_Zhang_Resume.pdf)
+Download a printable PDF version of my CV 👉  📄 [ZJY_Resume.pdf](/files/ZJY_Resume.pdf)
 
 ---
 
