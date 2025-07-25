@@ -314,7 +314,7 @@ I am looking for research opportunities in 26Fall related to robotics and embodi
   <!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
 <!-- </dt> -->
 
-I am passionate about developing efficient and intelligent systems that connect decision, control, and real-world interaction. My current research interests focus on three key areas:
+I focus on developing efficient and intelligent systems that integrate learning and control for perception, reasoning, and real-world interaction. My current research interests focus on three key areas:
 
 a) Robotics Manipulation: Perception-aware policy learning and generalizable control for physical interaction 
 
