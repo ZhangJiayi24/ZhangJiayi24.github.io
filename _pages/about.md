@@ -276,7 +276,7 @@ redirect_from:
 
 My name is Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/wechat.png">WeChat</a>.
+I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>.
 
 
 <!-- Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
@@ -353,11 +353,12 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+  <li><em>2025.0:</em> 🎉 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
   <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. Thanks to all collaborators!</li>
-  <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.
+  <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
   <li><em>2025.05:</em> 🎉 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
   <li><em>2025.04:</em> 🎉 My personal academic homepage is now online.</li>
-  <li><em>2025.03:</em> 🎉 It is a great honor to have the opportunity to be a research intern at the <strong>EEE Department of the University of Hong Kong.</strong> </li>
+  <li><em>2025.03:</em> 🎉 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
   <li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling ClimateChange with Machine Learning Workshop</strong>. See you in Singapore.</li>
   <li><em>2025.01:</em> I completed two additional AI4S articles during the machine learning process.</li>
   <li><em>2025.01:</em> I participated in The Interdisciplinary Contest in Modeling (ICM).</li>
@@ -495,257 +496,6 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <hr>
 
 
-
-<!-- 
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/EMOE.png">
-<span class="conference-label">CVPR 2025</span>
-</dt>
-  <dd><a href=""><strong>EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</strong></a></dd>
-  <dd>Yiyang Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Kehua Su, Mang Ye</dd>
-  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/GHOST.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</strong></a></dd>
-  <dd>Jiaru Qian&dagger;, <strong>Guancheng Wan</strong>&dagger; <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/EAGLES.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
-  <dd>Zitong Shi&dagger;, <strong>Guancheng Wan</strong>&dagger; <span class="co-first">(co-first)</span>, Guibin Zhang, Wenke Huang, He Li, Carl Yang, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/Gdesigner.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks</strong></a></dd>
-  <dd>Guibin Zhang, Yanwei Yue, Xiangguo Sun, <strong>Guancheng Wan</strong>, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, Dawei Cheng</dd>
-  <dd> <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/BeConfident.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</strong></a></dd>
-  <dd>Wenke Huang, Jian Liang, <strong>Guancheng Wan</strong>, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/agentprune.png">
-  <span class="conference-label">ICLR 2025</span>
-  </dt>
-  <dd><a href="https://openreview.net/forum?id=LkzuPorQ5L"><strong>	
-Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
-</strong></a></dd>
-  <dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
-  <dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/FedPHA.png">
-<span class="conference-label">ICML 2025</span>
-</dt>
-  <dd><a href=""><strong>FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation</strong></a></dd>
-  <dd>Chengying Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Yihao Yang, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/LFBA.png">
-  <span class="conference-label">AAAI 2025</span>
-  </dt>
-  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
-Label-free backdoor attacks in vertical federated learning</strong></a></dd>
-  <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
-  </dd>
-    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/LearnFromDownstream.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning</strong></a></dd>
-  <dd>Wenke Huang, Jian Liang, Zekun Shi, Didi Zhu, <strong>Guancheng Wan</strong>, He Li, Bo Du, Dacheng Tao, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/FedPrompt.png">
-  <span class="conference-label">IJCAI 2025</span>
-  </dt>
-  <dd><a href=""><strong>An Empirical Study of Federated Prompt Learning for Vision Language Model</strong></a></dd>
-  <dd>Zhihao Wang, Wenke Huang, Tian Chen, Zekun Shi, <strong>Guancheng Wan</strong>, Yu Qiao, Bin Yang, Jian Wang, Bing Li, Mang Ye</dd>
-  <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
-</dl>
-
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
-<span class="conference-label">ICML 2025</span>
-</dt>
-  <dd><a href=""><strong>Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation</strong></a></dd>
-  <dd>Yihao Yang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Bin Yang, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-label">ICML 2025</span>
-</dt>
-  <dd><a href=""><strong>Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models</strong></a></dd>
-<dd>Yangxu Liao&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jian Liang, Bin Yang, Mang Ye</dd>
-<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-<hr> -->
-
-
-<br>
-
-<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
-2024
-</div>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
-  <span class="conference-label">ICML 2024</span>
-  </dt>
-  <dd><a href="https://proceedings.mlr.press/v235/wan24g.html"><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
-</strong></a></dd>
-  <dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
-    <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2024 </dd>
-</dl>
-
-<hr>
-<!-- 
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/FedSSP.png">
-  <span class="conference-label">NeurIPS 2024</span>
-  </dt>
-  <dd><a href="https://arxiv.org/pdf/2410.20105"><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-  <dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
-  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/FDCR.png">
-  <span class="conference-label">NeurIPS 2024</span>
-  </dt>
-  <dd><a href=""><strong>	
-Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du
-  </dd>
-  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
-</dl>
-
-<hr> -->
-
-<dl>
-  <dt><img align="left"  width="100"
-  wspace="20" hspace="10" src="../images/fggp.png">
-  <span class="conference-label">AAAI 2024</span>
-  </dt>
-  <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
-  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
-    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
-</dl>
-
-<hr>
-<!-- 
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/episurvey.png">
-  <span class="conference-label">KDD 2024</span>
-  </dt>
-  <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671455"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-  <dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
-    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
-    <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10"   wspace="20" src="../images/fgssl.png">
-  <span class="conference-label">IJCAI 2023</span>
-  </dt>
-  <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
-  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
-</dl>
-
-<hr> -->
-<!-- 
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/flsurvey.png">
-  <span class="conference-label">TPAMI 2024</span>
-  </dt>
-  <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
-  </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
-    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
-</dl> -->
-
-
-
 <br>
 
 
@@ -782,12 +532,11 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <div class="service-section">
   <h3>Conference Committee Member</h3>
   <ul class="service-list">
-    <li>Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025</li>
-    <li>Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024</li>
-    <li>Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025</li>
+    <li>Reviewer for NeurIPS'2025, EMNLP'2025</li>
   </ul>
 </div>
 
+<!--
 <div class="service-section">
   <h3>Journal Reviewer</h3>
   <ul class="service-list">
@@ -797,6 +546,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
     <li>Data-centric Machine Learning Research (DMLR)</li>
   </ul>
 </div>
+-->
 
 <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
