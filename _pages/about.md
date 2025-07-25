@@ -295,15 +295,15 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
   <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
 </div>
 
+-->
+
 <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
   <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 Seeking for Remote Intern/Assistant (RA)</strong><br>
-We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR. If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
-href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
+I am looking for research opportunities in 26Fall related to robotics and embodied intelligence, especially in labs based in the United States that support remote collaboration or on-site summer research. I am passionate about developing efficient and intelligent systems that connect decision-making, control, and real-world interaction. My current research interests include robotic manipulation and reinforcement learning for control. If our research interests align, please feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>.
   </p>
 </div>
 
--->
 
 
 
