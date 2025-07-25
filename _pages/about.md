@@ -354,7 +354,7 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><em>2025.06:</em> 🎉 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
-  <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. Thanks to all collaborators!</li>
+  <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. Thanks to all collaborators! See you in Hangzhou.</li>
   <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
   <li><em>2025.05:</em> 🎉 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
   <li><em>2025.04:</em> 🎉 My personal academic homepage is now online.</li>
@@ -362,7 +362,7 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
   <li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling ClimateChange with Machine Learning Workshop</strong>. See you in Singapore.</li>
   <li><em>2025.01:</em> I completed two additional AI4S articles during the machine learning process.</li>
   <li><em>2025.01:</em> I participated in The Interdisciplinary Contest in Modeling (ICM).</li>
-  <li><em>2024.12:</em> I participated in writing a paper for the first time and began studying machine learning.</li>
+  <li><em>2024.11:</em> I participated in writing a paper for the first time and began studying machine learning.</li>
 </ul>
 </div>
 
