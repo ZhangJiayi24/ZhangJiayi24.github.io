@@ -434,7 +434,7 @@ hspace="10" wspace="20" src="../images/multicali.png">
 <span class="conference-label">IROS 2025</span>
 </dt>
   <dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
-<dd>Jinjiang You&dagger, Hewei Wang&dagger, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, Puzhen Wu, <strong>Jiayi Zhang</strong>, Shubham Garg, Wei Pu</dd>
+<dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, Puzhen Wu, <strong>Jiayi Zhang</strong>, Shubham Garg, Wei Pu</dd>
 <dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
 </dl>
 
@@ -447,7 +447,7 @@ hspace="10" wspace="20" src="../images/specllava.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
   <dd><a href=""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
-  <dd>Mingxiao Huo&dagger,<strong>Jiayi Zhang&dagger</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
+  <dd>Mingxiao Huo&dagger;,<strong>Jiayi Zhang&dagger;</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger;, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
   <dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
 </dl>
 
@@ -460,7 +460,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <span class="conference-label">ICLR 2025</span>
 </dt>
   <dd><a href=""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
-  <dd>Yijie Li&dagger, Hewei Wang&dagger, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
+  <dd>Yijie Li&dagger;, Hewei Wang&dagger;, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
   <dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
 </dl>
 
