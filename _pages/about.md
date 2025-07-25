@@ -435,7 +435,7 @@ hspace="10" wspace="20" src="../images/multicali.png">
 </dt>
   <dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
 <dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li;, Mingxiao Huo;, Long Van Tran Ha;, Mingyuan Ma;, Jinfeng Xu;, Puzhen Wu;, <strong>Jiayi Zhang</strong>;, Shubham Garg;, Wei Pu</dd>
-<dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in IInternational Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
+<dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
 </dl>
 
 <hr>
