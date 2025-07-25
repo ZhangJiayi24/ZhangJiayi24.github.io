@@ -419,14 +419,7 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 <hr> -->
 
 
-
-
-
-
-
-
-
-# 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
+# 📃 Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=bLUpHDsAAAAJ))
 
 **&dagger; Equal Contribution**   
 
