@@ -1,4 +1,4 @@
----
+<img width="933" height="250" alt="image" src="https://github.com/user-attachments/assets/0fa35ca8-8237-430b-8dd6-a1284be02505" /><img width="933" height="250" alt="image" src="https://github.com/user-attachments/assets/1101f6e1-ff40-4dfa-bcbe-a9d5a657c699" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -353,12 +353,12 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
   }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2025.06:</em> 🎉 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
+  <li><em>2025.06:</em> 📣 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
   <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. See you in Hangzhou.</li>
   <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
-  <li><em>2025.05:</em> 🎉 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
-  <li><em>2025.04:</em> 🎉 My personal academic homepage is now online.</li>
-  <li><em>2025.03:</em> 🎉 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
+  <li><em>2025.05:</em> 🥈 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
+  <li><em>2025.04:</em> 🌐 My personal academic homepage is now online.</li>
+  <li><em>2025.03:</em> 📣 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
   <li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling Climate Change with Machine Learning Workshop</strong>. See you in Singapore.</li>
   <li><em>2025.01:</em> I completed two additional AI4S articles during the machine learning process.</li>
   <li><em>2025.01:</em> I participated in The Interdisciplinary Contest in Modeling (ICM).</li>
