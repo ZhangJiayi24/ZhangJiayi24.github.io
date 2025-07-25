@@ -430,14 +430,12 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/FedTGE.png">
-<span class="conference-label">ICLR 2025</span>
+hspace="10" wspace="20" src="../images/multicali.png">
+<span class="conference-label">IROS 2025</span>
 </dt>
-  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
-Energy-based Backdoor Defense Against Federated Graph Learning
-</strong></a></dd>
-<dd><strong><strong>Guancheng Wan</strong>&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+  <dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
+<dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li;, Mingxiao Huo;, Long Van Tran Ha;, Mingyuan Ma;, Jinfeng Xu;, Puzhen Wu;, <strong>Jiayi Zhang</strong>;, Shubham Garg;, Wei Pu</dd>
+<dd>  <strong class="co-first"><i>Oral Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -445,12 +443,12 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/GREAT.png">
+hspace="10" wspace="20" src="../images/specllava.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
-  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
-<dd>  <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+  <dd><a href=""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
+  <dd>Mingxiao Huo&dagger;,<strong>Jiayi Zhang&dagger;</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger;, Jinfeng Xu;, Zheyu Chen;, Huilin Tai;, Ian Yijun Chen</dd>
+  <dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -458,30 +456,18 @@ hspace="10" wspace="20" src="../images/GREAT.png">
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/LoRASculpt.png">
-<span class="conference-label">CVPR 2025</span>
+hspace="10" wspace="20" src="../images/scanet.png">
+<span class="conference-label">ICLR 2025</span>
 </dt>
-  <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
-  <dd>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
-  <dd><strong class="co-first"><i>Oral Presentation (Top 3.3%)</i></strong> in Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd><a href=""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
+  <dd>Yijie Li&dagger, Hewei Wang&dagger, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
+  <dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
 </dl>
 
 <hr>
 
 
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/FedSPA.png">
-<span class="conference-label">CVPR 2025</span>
-</dt>
-  <dd><a href=""><strong>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</strong></a></dd>
-  <dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
-  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
-</dl>
-
-<hr>
-
-
+<!-- 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EARTH.png">
@@ -493,12 +479,12 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 </dl>
 
 
-<hr>
+<hr>-->
 
 
 <br>
 
-
+<!-- 
 # 🔬 Survey and Benchmark
 
 - **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
@@ -514,20 +500,21 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 - **A Comprehensive Survey on Scientific Large Language Models in Physics**
 
 - **FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation**
-
+-->
 
 
 
 
 
 # 🎡 Service
-
+<!--
 <div class="service-section">
   <h3>Program Chair</h3>
   <ul class="service-list">
     <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
   </ul>
 </div>
+-->
 
 <div class="service-section">
   <h3>Conference Committee Member</h3>
@@ -555,33 +542,15 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
+- *2025.5* **Interdisciplinary Contest in Modeling 2025 Honorable Mention (Second Prize)** (美赛建模H奖) *Consortium for Mathematics and Its Applications*
 
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
-
-- *2022.09* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
-
-- *2025.03* <a href="https://mp.weixin.qq.com/s/1quPOGcxbMkfMFgkl8tFKQ">**Luo Jia Role model** </a>(榜样珞珈年度人物) (10 Students school-wide)  *Wuhan University*
-
-- *2024.11* **InnoStar Undergraduate Innovation Achievement Award** (英诺大学生创新成果 特等奖) ~30k (**Only 2** Students school-wide) *Wuhan University*
-
-- *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
-
-- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
-
-- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) ~20k (**25 Students nation-wide**) *SenseTime*
-
-- *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
-
-- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
-
-- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate ~ <strong>0.1%</strong>) *Wuhan University*
+- *2023.1* **Chinese Mathematical Olympiad Sliver Model** (第38届中国数学奥林匹克竞赛决赛 银牌) *Shenzhen China*
 
 
 <br/>
 
 # 📖 Education
-
+<!--
 <div class="education-card">
   <div class="education-info">
     <div class="education-title">
@@ -593,18 +562,19 @@ hspace="10" wspace="20" src="../images/EARTH.png">
     <img src="../images/UCLA.png" alt="UCLA Logo" />
   </div>
 </div>
+-->
 
-<!-- <div class="education-card">
+ <div class="education-card">
   <div class="education-info">
     <div class="education-title">
       <strong>2021.09 - 2025.06</strong><br/>
-      Bachelor, School of Computer Science, Wuhan University
+      BSc (Hons) Mathematics with Applied Mathematics , University of Nottingham Ningbo China
     </div>
   </div>
   <div class="education-logo">
     <img src="../images/WHU.jpeg" alt="Wuhan University Logo" />
   </div>
-</div> -->
+</div> 
 
 
 # 💼 Experience
