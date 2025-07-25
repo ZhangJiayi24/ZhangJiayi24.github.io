@@ -567,7 +567,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
  <div class="education-card">
   <div class="education-info">
     <div class="education-title">
-      <strong>2021.09 - 2025.06</strong><br/>
+      <strong>2024.09 - 2028.06 (Expected)</strong><br/>
       BSc (Hons) Mathematics with Applied Mathematics , University of Nottingham Ningbo China
     </div>
   </div>
@@ -582,114 +582,34 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-card">
   <div class="experience-info">
     <div class="experience-title">
-      <a href="https://www.princeton.edu/">Princeton University</a>
+      <a href="https://iwin-fins.com/">SJTU IWIN-FINS lab, Shanghai China</a>
+    </div>
+    <div class="experience-role">Research Assistant, 2025</div>
+    <div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/fins_logo.png" alt="SJTU IWIN-FINS lab Logo" />
+  </div>
+</div>
+
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://www.eee.hku.hk/~iotlab/">HKU IoT lab, Hongkong SAR</a>
     </div>
     <div class="experience-role">Research Internship, 2025</div>
-    <div class="experience-topics">Topics: AI for Science</div>
+    <div class="experience-topics">Topics: Federated Learning, Fairness, Spatio‑temporal Graphs</div>
   </div>
   <div class="experience-logo">
-    <img src="../images/princeton.png" alt="Princeton Logo" />
+    <img src="../images/iotlab_logo.png" alt="HKU IoT Lab Logo" />
   </div>
 </div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://sail.sea.com/">Sea AI Lab, Singapore</a>
-    </div>
-    <div class="experience-role">Internship, Associate member, 2025</div>
-    <div class="experience-topics">Topics: (M)LLM, GUI Agent</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/sea.png" alt="Sea AI Lab Logo" />
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://ucla-dm.github.io/DM_website/">UCLA Data Mining Lab</a> & <a href="http://web.cs.ucla.edu/~weiwang/">ScAI Lab</a>, University of California, Los Angeles
-    </div>
-    <div class="experience-role">Research Internship, 2024-2025</div>
-    <div class="experience-topics">Topics: Ai4Science, Dynamic System, Graph Neural ODE</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/UCLA.png" alt="UCLA Logo" />
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://www.cs.emory.edu/~wjin30/">Melody Lab</a>, Emory University
-    </div>
-    <div class="experience-role">Research Assistant, 2024</div>
-    <div class="experience-topics">Topics: Ai4Science, Epidemiology, Graph Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/emory.png" alt="Emory Logo" />
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://adityalab.cc.gatech.edu/">Aditya Lab</a>, Georgia Institute of Technology
-    </div>
-    <div class="experience-role">Research Assistant, 2024</div>
-    <div class="experience-topics">Topics: Ai4Science, Epidemiology, Graph Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/gatech.png" alt="Georgia Tech Logo" />
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://lucyinstitute.nd.edu/centers-and-labs/data-inference-analytics-and-learning-dial-lab/">DIAL Lab</a>, University of Notre Dame
-    </div>
-    <div class="experience-role">Research Internship, 2023</div>
-    <div class="experience-topics">Topics: Inference Acceleration, Heterophilic Graph, Unsupervised Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/ND.png" alt="Notre Dame Logo" />
-  </div>
-</div>
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://marswhu.github.io/">MARS lab</a>, Wuhan University
-    </div>
-    <div class="experience-role">Research Assistant, 2023-2025</div>
-    <div class="experience-topics">Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/WHU.jpeg" alt="WHU Logo" />
-  </div>
-</div>
-
-
-<div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://sigma.whu.edu.cn/">SIGMA lab</a>, Wuhan University
-    </div>
-    <div class="experience-role">Research Assistant, 2023-2025</div>
-    <div class="experience-topics">Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/sigma.png" alt="WHU Logo" />
-  </div>
-</div>
-
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
 
 
 
-
+<!--
 # 🏀 Miscellaneous
 
 <details>
@@ -709,8 +629,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 
 </details>
-
-
+-->
 
 <details>
   <summary><strong>Poems that inspire me</strong></summary>
@@ -718,7 +637,6 @@ hspace="10" wspace="20" src="../images/EARTH.png">
   <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
     <dd><strong>风吹到哪页，读哪页</strong> —— The wind blows to which page, read which page.. </dd>
 </details>
-
 
 
 
