@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiayi Zhang"
-  avatar           : "images/head.png"
+  avatar           : "/images/head.png"
   bio              : "Mathematics Undergrad Student"
   location         :
   employer         :
