@@ -572,7 +572,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
     </div>
   </div>
   <div class="education-logo">
-    <img src="../images/uon_logo.jpeg" alt="University of Nottingham Ningbo China Logo" />
+    <img src="../images/uon_logo.jpg" alt="University of Nottingham Ningbo China Logo" />
   </div>
 </div> 
 
@@ -605,8 +605,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
   </div>
 </div>
 
-<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
-
+<a href="http://www.clustrmaps.com/map/Zhangjiayi24.github.io" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8" /></a>
 
 
 <!--
