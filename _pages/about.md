@@ -605,7 +605,9 @@ hspace="10" wspace="20" src="../images/EARTH.png">
   </div>
 </div>
 
+<!--
 <a href="http://www.clustrmaps.com/map/Zhangjiayi24.github.io" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8" /></a>
+-->
 
 
 <!--
