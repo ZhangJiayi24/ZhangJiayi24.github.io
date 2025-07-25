@@ -1,267 +1,267 @@
-<img width="933" height="250" alt="image" src="https://github.com/user-attachments/assets/0fa35ca8-8237-430b-8dd6-a1284be02505" /><img width="933" height="250" alt="image" src="https://github.com/user-attachments/assets/1101f6e1-ff40-4dfa-bcbe-a9d5a657c699" />---
+---
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+- /about/
+- /about.html
 ---
 
 <style>
-  dl {
-    margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
-    clear: both;
-  }
-
-  /* 全局文本颜色 */
-  body {
-    color: #333; /* 主要文本颜色 */
-    background-image: url('../images/bg.jpg'); /* 背景图片 */
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-  }
-
-  /* 链接颜色 */
-  a {
-    color: #0066cc; /* 链接颜色 */
-  }
-
-  /* 作者名字颜色 */
-  strong {
-    color: #000; /* 作者名字颜色 */
-  }
-
-  /* 年份标题颜色 */
-  .year-title {
-    color: #666;
-  }
-
-  /* 会议标签样式 */
-  .conference-label {
-    position: absolute;
-    top: 10px;
-    left: -5px;
-    background-color: #2c3e50;  /* 深蓝色背景 */
-    color: white;  /* 白色文字 */
-    padding: 6px 12px;
-    border-radius: 6px;
-    font-size: 0.95em;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    z-index: 1;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-style: italic;  /* 添加斜体 */
-  }
-
-  /* 鼠标悬停效果 */
-  .conference-label:hover {
-    background-color: #34495e;  /* 悬停时稍微变亮 */
-    transition: background-color 0.2s ease;
-  }
-
-  dl dt img {
-    width: 100%; /* 在移动端默认占满宽度 */
-    aspect-ratio: 2/1; /* 设置宽高比为2:1，即高度为宽度的一半 */
-    object-fit: cover; /* 确保图片不会被裁剪 */
-    display: block;
-    margin: 10px 10px 10px 0px; /* 适当的间距 */
-    
-    /* 添加美化效果 */
-    border-radius: 8px; /* 让图片有轻微的圆角 */
-    border: 2px solid #ddd; /* 添加淡灰色的边框 */
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
-    padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
-    background-color: #fff; /* 设置背景色，让图片更加干净 */
-  }
-
-  /* 在桌面端（宽度大于768px）时固定宽度 */
-  @media screen and (min-width: 768px) {
-    dl dt img {
-      width: 350px;
-    }
-  }
-
-  dl dt {
-    position: relative;
-  }
-
-  hr {
-    border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
-    /* margin: 10px;  */
-    clear: both; 
-  }
-
-  dl dd {
-  margin-top: 5px; 
-  margin-bottom: 5px;
+dl {
+margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
+clear: both;
 }
 
-  dl dd strong {
-  font-weight: bold;
-  color: black;
-  }
+/* 全局文本颜色 */
+body {
+color: #333; /* 主要文本颜色 */
+background-image: url('../images/bg.jpg'); /* 背景图片 */
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+}
 
-  .co-first {
-    color: red;
-  }
+/* 链接颜色 */
+a {
+color: #0066cc; /* 链接颜色 */
+}
 
-  .down {
-    transform: rotate(180deg);
-  }
+/* 作者名字颜色 */
+strong {
+color: #000; /* 作者名字颜色 */
+}
 
-  /* 教育和工作经历卡片样式 */
-  .experience-card, .education-card {
-    display: flex;
-    align-items: center;
-    gap: 25px;
-    margin-bottom: 30px;
-    padding: 20px;
-    background: #f8f9fa;
-    border-radius: 12px;
-    transition: all 0.3s ease;
-    border: 1px solid #e9ecef;
-  }
+/* 年份标题颜色 */
+.year-title {
+color: #666;
+}
 
-  .experience-card:hover, .education-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-    border-color: #dee2e6;
-  }
+/* 会议标签样式 */
+.conference-label {
+position: absolute;
+top: 10px;
+left: -5px;
+background-color: #2c3e50;  /* 深蓝色背景 */
+color: white;  /* 白色文字 */
+padding: 6px 12px;
+border-radius: 6px;
+font-size: 0.95em;
+font-weight: 600;
+letter-spacing: 0.5px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+z-index: 1;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+font-style: italic;  /* 添加斜体 */
+}
 
-  .experience-info, .education-info {
-    flex: 1;
-  }
+/* 鼠标悬停效果 */
+.conference-label:hover {
+background-color: #34495e;  /* 悬停时稍微变亮 */
+transition: background-color 0.2s ease;
+}
 
-  .experience-logo, .education-logo {
-    flex-shrink: 0;
-    width: 100px;
-    height: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: white;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  }
+dl dt img {
+width: 100%; /* 在移动端默认占满宽度 */
+aspect-ratio: 2/1; /* 设置宽高比为2:1，即高度为宽度的一半 */
+object-fit: cover; /* 确保图片不会被裁剪 */
+display: block;
+margin: 10px 10px 10px 0px; /* 适当的间距 */
 
-  .experience-logo img, .education-logo img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-  }
+/* 添加美化效果 */
+border-radius: 8px; /* 让图片有轻微的圆角 */
+border: 2px solid #ddd; /* 添加淡灰色的边框 */
+box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
+padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
+background-color: #fff; /* 设置背景色，让图片更加干净 */
+}
 
-  .experience-title, .education-title {
-    font-size: 1.2em;
-    margin-bottom: 8px;
-    color: #2c3e50;
-  }
+/* 在桌面端（宽度大于768px）时固定宽度 */
+@media screen and (min-width: 768px) {
+dl dt img {
+width: 350px;
+}
+}
 
-  .experience-title a, .education-title a {
-    color: #2c3e50;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
+dl dt {
+position: relative;
+}
 
-  .experience-title a:hover, .education-title a:hover {
-    color: #3498db;
-  }
+hr {
+border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
+/* margin: 10px;  */
+clear: both; 
+}
 
-  .experience-role, .education-role {
-    color: #666;
-    font-style: italic;
-    margin-bottom: 5px;
-  }
+dl dd {
+margin-top: 5px; 
+margin-bottom: 5px;
+}
 
-  .experience-topics, .education-topics {
-    color: #666;
-    font-style: italic;
-  }
+dl dd strong {
+font-weight: bold;
+color: black;
+}
 
-  .section-title {
-    font-size: 1.8em;
-    color: #2c3e50;
-    margin: 40px 0 20px;
-    padding-bottom: 10px;
-    border-bottom: 2px solid #ecf0f1;
-  }
+.co-first {
+color: red;
+}
 
-  /* 奖学金和荣誉部分样式 */
-  .honors-list {
-    list-style: none;
-    padding: 0;
-  }
+.down {
+transform: rotate(180deg);
+}
 
-  .honors-list li {
-    margin-bottom: 15px;
-    padding: 15px 20px;
-    background: #f8f9fa;
-    border-radius: 8px;
-    border-left: 4px solid #3498db;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+/* 教育和工作经历卡片样式 */
+.experience-card, .education-card {
+display: flex;
+align-items: center;
+gap: 25px;
+margin-bottom: 30px;
+padding: 20px;
+background: #f8f9fa;
+border-radius: 12px;
+transition: all 0.3s ease;
+border: 1px solid #e9ecef;
+}
 
-  .honors-list li:hover {
-    transform: translateX(5px);
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  }
+.experience-card:hover, .education-card:hover {
+transform: translateY(-3px);
+box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+border-color: #dee2e6;
+}
 
-  .honors-list li strong {
-    color: #2c3e50;
-  }
+.experience-info, .education-info {
+flex: 1;
+}
 
-  .honors-list li a {
-    color: #3498db;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
+.experience-logo, .education-logo {
+flex-shrink: 0;
+width: 100px;
+height: 100px;
+display: flex;
+align-items: center;
+justify-content: center;
+background: white;
+border-radius: 10px;
+padding: 10px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
 
-  .honors-list li a:hover {
-    color: #2980b9;
-  }
+.experience-logo img, .education-logo img {
+width: 100%;
+height: 100%;
+object-fit: contain;
+}
 
-  /* 服务部分样式 */
-  .service-section {
-    margin-bottom: 30px;
-  }
+.experience-title, .education-title {
+font-size: 1.2em;
+margin-bottom: 8px;
+color: #2c3e50;
+}
 
-  .service-section h3 {
-    color: #2c3e50;
-    font-size: 1.3em;
-    margin: 25px 0 15px;
-    padding-bottom: 8px;
-    border-bottom: 2px solid #ecf0f1;
-  }
+.experience-title a, .education-title a {
+color: #2c3e50;
+text-decoration: none;
+transition: color 0.3s ease;
+}
 
-  .service-list {
-    list-style: none;
-    padding: 0;
-  }
+.experience-title a:hover, .education-title a:hover {
+color: #3498db;
+}
 
-  .service-list li {
-    margin-bottom: 12px;
-    padding: 12px 15px;
-    background: #f8f9fa;
-    border-radius: 6px;
-    transition: transform 0.3s ease;
-  }
+.experience-role, .education-role {
+color: #666;
+font-style: italic;
+margin-bottom: 5px;
+}
 
-  .service-list li:hover {
-    transform: translateX(5px);
-  }
+.experience-topics, .education-topics {
+color: #666;
+font-style: italic;
+}
 
-  .service-list li a {
-    color: #3498db;
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
+.section-title {
+font-size: 1.8em;
+color: #2c3e50;
+margin: 40px 0 20px;
+padding-bottom: 10px;
+border-bottom: 2px solid #ecf0f1;
+}
 
-  .service-list li a:hover {
-    color: #2980b9;
-  }
+/* 奖学金和荣誉部分样式 */
+.honors-list {
+list-style: none;
+padding: 0;
+}
+
+.honors-list li {
+margin-bottom: 15px;
+padding: 15px 20px;
+background: #f8f9fa;
+border-radius: 8px;
+border-left: 4px solid #3498db;
+transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.honors-list li:hover {
+transform: translateX(5px);
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.honors-list li strong {
+color: #2c3e50;
+}
+
+.honors-list li a {
+color: #3498db;
+text-decoration: none;
+transition: color 0.3s ease;
+}
+
+.honors-list li a:hover {
+color: #2980b9;
+}
+
+/* 服务部分样式 */
+.service-section {
+margin-bottom: 30px;
+}
+
+.service-section h3 {
+color: #2c3e50;
+font-size: 1.3em;
+margin: 25px 0 15px;
+padding-bottom: 8px;
+border-bottom: 2px solid #ecf0f1;
+}
+
+.service-list {
+list-style: none;
+padding: 0;
+}
+
+.service-list li {
+margin-bottom: 12px;
+padding: 12px 15px;
+background: #f8f9fa;
+border-radius: 6px;
+transition: transform 0.3s ease;
+}
+
+.service-list li:hover {
+transform: translateX(5px);
+}
+
+.service-list li a {
+color: #3498db;
+text-decoration: none;
+transition: color 0.3s ease;
+}
+
+.service-list li a:hover {
+color: #2980b9;
+}
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -285,23 +285,23 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 <!--
 
 <div style="text-align: left; margin: 20px 0;">
-  <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
+ <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
 </div>
 
 Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
 and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
 
 <div style="text-align: left; margin: 20px 0;">
-  <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
+ <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
 </div>
 
 -->
 
 <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
-  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 Seeking Remote Intern/Assistant (RA) Opportunity</strong><br>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
+<p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 Seeking Remote Intern/Assistant (RA) Opportunity</strong><br>
 I am looking for research opportunities in 26Fall related to robotics and embodied intelligence, especially in labs based in the United States that support remote collaboration or on-site summer research. I am passionate about developing efficient and intelligent systems that connect decision-making, control, and real-world interaction. My current research interests include robotic manipulation and reinforcement learning for control. If our research interests align, please feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>.
-  </p>
+</p>
 </div>
 
 
@@ -311,7 +311,7 @@ I am looking for research opportunities in 26Fall related to robotics and embodi
 <!-- "All things are interconnected, this is the essence of nature."  -->
 
 <!-- <dt style="text-align: center; margin: 0; padding: 0;"> -->
-  <!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
+<!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
 <!-- </dt> -->
 
 I focus on developing efficient and intelligent systems that integrate learning and control for perception, reasoning, and real-world interaction. My current research interests focus on three key areas:
@@ -327,42 +327,42 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
 
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
 <style>
-  /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
-  div::-webkit-scrollbar {
-    width: 8px;
-  }
+/* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
+div::-webkit-scrollbar {
+width: 8px;
+}
 
-  div::-webkit-scrollbar-track {
-    background: #e9ecef;
-    border-radius: 4px;
-  }
+div::-webkit-scrollbar-track {
+background: #e9ecef;
+border-radius: 4px;
+}
 
-  div::-webkit-scrollbar-thumb {
-    background: #2c3e50;
-    border-radius: 4px;
-  }
+div::-webkit-scrollbar-thumb {
+background: #2c3e50;
+border-radius: 4px;
+}
 
-  div::-webkit-scrollbar-thumb:hover {
-    background: #1a252f;
-  }
+div::-webkit-scrollbar-thumb:hover {
+background: #1a252f;
+}
 
-  /* 为 Firefox 设置滚动条样式 */
-  div {
-    scrollbar-width: thin;
-    scrollbar-color: #2c3e50 #e9ecef;
-  }
+/* 为 Firefox 设置滚动条样式 */
+div {
+scrollbar-width: thin;
+scrollbar-color: #2c3e50 #e9ecef;
+}
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-  <li><em>2025.06:</em> 🎉 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
-  <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. See you in Hangzhou.</li>
-  <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
-  <li><em>2025.05:</em> We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
-  <li><em>2025.04:</em> 🎉 My personal academic homepage is now online.</li>
-  <li><em>2025.03:</em> 🎉 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
-  <li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling Climate Change with Machine Learning Workshop</strong>. See you in Singapore.</li>
-  <li><em>2025.01:</em> I completed two additional AI4S articles during the machine learning process.</li>
-  <li><em>2025.01:</em> I participated in The Interdisciplinary Contest in Modeling (ICM).</li>
-  <li><em>2024.11:</em> I participated in writing a paper for the first time and began studying machine learning.</li>
+<li><em>2025.06:</em> 🎉 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
+<li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. See you in Hangzhou.</li>
+<li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
+<li><em>2025.05:</em> 🎉 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
+<li><em>2025.04:</em> 🎉 My personal academic homepage is now online.</li>
+<li><em>2025.03:</em> 🎉 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
+<li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling Climate Change with Machine Learning Workshop</strong>. See you in Singapore.</li>
+<li><em>2025.01:</em> I completed two additional AI4S articles during the machine learning process.</li>
+<li><em>2025.01:</em> I participated in The Interdisciplinary Contest in Modeling (ICM).</li>
+<li><em>2024.11:</em> I participated in writing a paper for the first time and began studying machine learning.</li>
 </ul>
 </div>
 
@@ -376,44 +376,44 @@ c) Large Model Inference Acceleration: Efficient architectures and optimization 
 # 📝 Manuscripts
 
 <dl>
-  <dt><img align="left" width="100"
+ <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/MOTION.png">
 <span class="conference-label">Under Review</span>
 </dt>
-  <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
+ <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
 <dd>under review, 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="100"
+ <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/HYPERION.png">
 <span class="conference-label">Under Review</span>
 </dt>
-  <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
+ <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
 <dd>under review, 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="100"
+ <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/TRUST.png">
 <span class="conference-label">Under Review</span>
 </dt>
-  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
+ <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
 <dd>under review, 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="100"
+ <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/OASIS.png">
 <span class="conference-label">Under Review</span>
 </dt>
-  <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
+ <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
 <dd>under review, 2025</dd>
 </dl>
 
@@ -429,11 +429,12 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 </div>
 
 <dl>
-  <dt><img align="left" width="100"
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/multicali.png">
 <span class="conference-label">IROS 2025</span>
 </dt>
-  <dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
+<dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
+<dd>Jinjiang You&dagger, Hewei Wang&dagger, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, Puzhen Wu, <strong>Jiayi Zhang</strong>, Shubham Garg, Wei Pu</dd>
 <dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, Puzhen Wu, <strong>Jiayi Zhang</strong>, Shubham Garg, Wei Pu</dd>
 <dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
 </dl>
@@ -442,26 +443,28 @@ hspace="10" wspace="20" src="../images/multicali.png">
 
 
 <dl>
-  <dt><img align="left" width="100"
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/specllava.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
-  <dd><a href=""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
+<dd><a href=""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
+  <dd>Mingxiao Huo&dagger,<strong>Jiayi Zhang&dagger</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
   <dd>Mingxiao Huo&dagger;,<strong>Jiayi Zhang&dagger;</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger;, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
-  <dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
+<dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
 </dl>
 
 <hr>
 
 
 <dl>
-  <dt><img align="left" width="100"
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/scanet.png">
 <span class="conference-label">ICLR 2025</span>
 </dt>
-  <dd><a href=""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
+<dd><a href=""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
+  <dd>Yijie Li&dagger, Hewei Wang&dagger, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
   <dd>Yijie Li&dagger;, Hewei Wang&dagger;, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
-  <dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
+<dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -469,11 +472,11 @@ hspace="10" wspace="20" src="../images/scanet.png">
 
 <!-- 
 <dl>
-  <dt><img align="left" width="100"
+ <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EARTH.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
-  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
+ <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
 <dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
 <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
@@ -509,29 +512,29 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 # 🎡 Service
 <!--
 <div class="service-section">
-  <h3>Program Chair</h3>
-  <ul class="service-list">
-    <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
-  </ul>
+ <h3>Program Chair</h3>
+ <ul class="service-list">
+   <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
+ </ul>
 </div>
 -->
 
 <div class="service-section">
-  <h3>Conference Committee Member</h3>
-  <ul class="service-list">
-    <li>Reviewer for NeurIPS'2025, EMNLP'2025</li>
-  </ul>
+<h3>Conference Committee Member</h3>
+<ul class="service-list">
+<li>Reviewer for NeurIPS'2025, EMNLP'2025</li>
+</ul>
 </div>
 
 <!--
 <div class="service-section">
-  <h3>Journal Reviewer</h3>
-  <ul class="service-list">
-    <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
-    <li>ACM TKDD</li>
-    <li>Pattern Recognition (PR)</li>
-    <li>Data-centric Machine Learning Research (DMLR)</li>
-  </ul>
+ <h3>Journal Reviewer</h3>
+ <ul class="service-list">
+   <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
+   <li>ACM TKDD</li>
+   <li>Pattern Recognition (PR)</li>
+   <li>Data-centric Machine Learning Research (DMLR)</li>
+ </ul>
 </div>
 -->
 
@@ -552,57 +555,57 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 # 📖 Education
 <!--
 <div class="education-card">
-  <div class="education-info">
-    <div class="education-title">
-      <strong>2025.09 - Now</strong><br/>
-      PhD, Computer Science, University of California, Los Angeles (UCLA)
-    </div>
-  </div>
-  <div class="education-logo">
-    <img src="../images/UCLA.png" alt="UCLA Logo" />
-  </div>
+ <div class="education-info">
+   <div class="education-title">
+     <strong>2025.09 - Now</strong><br/>
+     PhD, Computer Science, University of California, Los Angeles (UCLA)
+   </div>
+ </div>
+ <div class="education-logo">
+   <img src="../images/UCLA.png" alt="UCLA Logo" />
+ </div>
 </div>
 -->
 
- <div class="education-card">
-  <div class="education-info">
-    <div class="education-title">
-      <strong>2024.09 - 2028.06 (Expected)</strong><br/>
-      BSc (Hons) Mathematics with Applied Mathematics , University of Nottingham Ningbo China
-    </div>
-  </div>
-  <div class="education-logo">
-    <img src="../images/uon_logo.jpg" alt="University of Nottingham Ningbo China Logo" />
-  </div>
+<div class="education-card">
+<div class="education-info">
+<div class="education-title">
+ <strong>2024.09 - 2028.06 (Expected)</strong><br/>
+ BSc (Hons) Mathematics with Applied Mathematics , University of Nottingham Ningbo China
+</div>
+</div>
+<div class="education-logo">
+<img src="../images/uon_logo.jpg" alt="University of Nottingham Ningbo China Logo" />
+</div>
 </div> 
 
 
 # 💼 Experience
 
 <div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://iwin-fins.com/">SJTU IWIN-FINS lab, Shanghai China</a>
-    </div>
-    <div class="experience-role">Research Assistant, 2025</div>
-    <div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/fins_logo.png" alt="SJTU IWIN-FINS lab Logo" />
-  </div>
+<div class="experience-info">
+<div class="experience-title">
+ <a href="https://iwin-fins.com/">SJTU IWIN-FINS lab, Shanghai China</a>
+</div>
+<div class="experience-role">Research Assistant, 2025</div>
+<div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
+</div>
+<div class="experience-logo">
+<img src="../images/fins_logo.png" alt="SJTU IWIN-FINS lab Logo" />
+</div>
 </div>
 
 <div class="experience-card">
-  <div class="experience-info">
-    <div class="experience-title">
-      <a href="https://www.eee.hku.hk/~iotlab/">HKU IoT lab, Hongkong SAR</a>
-    </div>
-    <div class="experience-role">Research Internship, 2025</div>
-    <div class="experience-topics">Topics: Federated Learning, Fairness, Spatio‑temporal Graphs</div>
-  </div>
-  <div class="experience-logo">
-    <img src="../images/iotlab_logo.png" alt="HKU IoT Lab Logo" />
-  </div>
+<div class="experience-info">
+<div class="experience-title">
+ <a href="https://www.eee.hku.hk/~iotlab/">HKU IoT lab, Hongkong SAR</a>
+</div>
+<div class="experience-role">Research Internship, 2025</div>
+<div class="experience-topics">Topics: Federated Learning, Fairness, Spatio‑temporal Graphs</div>
+</div>
+<div class="experience-logo">
+<img src="../images/iotlab_logo.png" alt="HKU IoT Lab Logo" />
+</div>
 </div>
 
 <!--
@@ -614,7 +617,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 # 🏀 Miscellaneous
 
 <details>
-  <summary><strong>Talks and Shares</strong></summary>
+ <summary><strong>Talks and Shares</strong></summary>
 <dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
 
 
@@ -624,7 +627,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 
 <details>
-  <summary><strong>Undergraduate research resource and enrollment process</strong></summary>
+ <summary><strong>Undergraduate research resource and enrollment process</strong></summary>
 
 <dd><a href="https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd"><strong>Link</strong></a></dd>
 
@@ -633,9 +636,9 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 -->
 
 <details>
-  <summary><strong>Quote that inspire me</strong></summary>
-  <dd><strong>科学家发现了存在的世界，工程师创造了前所未有的世界</strong> —— Scientists study the world as it is; engineers create the world that never has been</dd>
-  
+<summary><strong>Quote that inspire me</strong></summary>
+<dd><strong>科学家发现了存在的世界，工程师创造了前所未有的世界</strong> —— Scientists study the world as it is; engineers create the world that never has been</dd>
+
 </details>
 
 
