@@ -632,7 +632,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <details>
   <summary><strong>Quote that inspire me</strong></summary>
-  <dd><strong>科学家发现已经存在的世界；工程师创造一个过去从来没有存在过的世界</strong> —— Scientists study the world as it is; engineers create the world that never has been</dd>
+  <dd><strong>科学家发现了存在的世界，工程师创造了前所未有的世界</strong> —— Scientists study the world as it is; engineers create the world that never has been</dd>
   
 </details>
 
