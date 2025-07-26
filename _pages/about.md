@@ -542,9 +542,9 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 # 🎖 Scholarships and Honors
 
-- *2025.5* **Interdisciplinary Contest in Modeling 2025 Honorable Mention (Second Prize)** (美赛建模H奖) *Consortium for Mathematics and Its Applications*
+- *2025.5* **Interdisciplinary Contest in Modeling 2025, Honorable Mention (Second Prize)** (美赛建模 H奖) *Consortium for Mathematics and Its Applications*
 
-- *2023.1* **Chinese Mathematical Olympiad Sliver Model** (第38届中国数学奥林匹克竞赛决赛 银牌) *Shenzhen China*
+- *2023.1* **Chinese Mathematical Olympiad 2022, Sliver Model** (第38届中国数学奥林匹克竞赛决赛 银牌) *Shenzhen China*
 
 
 <br/>
