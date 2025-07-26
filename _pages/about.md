@@ -355,7 +355,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 <li><em>2025.06:</em> 🎈 Great honor to have the opportunity to be a research assist at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
 <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. See you in Hangzhou.</li>
-<li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM workshop</strong>. See you in Vancouver.</li>
+<li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM Workshop</strong>. See you in Vancouver.</li>
 <li><em>2025.05:</em> 🥈 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
 <li><em>2025.04:</em> 🌐 My personal academic homepage is now online.</li>
 <li><em>2025.03:</em> 🎈 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at the <strong>University of Hong Kong.</strong> </li>
