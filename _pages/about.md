@@ -437,7 +437,7 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 hspace="10" wspace="20" src="../images/multicali.png">
 <span class="conference-label">IROS 2025</span>
 </dt>
-<dd><a href=""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
+<dd><a href=https://wanghewei16.github.io/Multi-Cali-Anything/""><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
 <dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, <strong>Jiayi Zhang</strong>, Puzhen Wu, Shubham Garg, Wei Pu</dd>
 <dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
 </dl>
@@ -450,7 +450,7 @@ hspace="10" wspace="20" src="../images/multicali.png">
 hspace="10" wspace="20" src="../images/specllava.png">
 <span class="conference-label">ICMLw 2025</span>
 </dt>
-<dd><a href=""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
+<dd><a href=https://openreview.net/forum?id=GiILZG2fjG""><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
   <dd>Mingxiao Huo&dagger;,<strong>Jiayi Zhang&dagger;</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger;, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
 <dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
 </dl>
@@ -463,7 +463,7 @@ hspace="10" wspace="20" src="../images/specllava.png">
 hspace="10" wspace="20" src="../images/scanet.png">
 <span class="conference-label">ICLRw 2025</span>
 </dt>
-<dd><a href=""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
+<dd><a href=https://arxiv.org/abs/2504.14178""><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
   <dd>Yijie Li&dagger;, Hewei Wang&dagger;, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
 <dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
 </dl>
@@ -586,9 +586,22 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-card">
 <div class="experience-info">
 <div class="experience-title">
+ <a href="https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Embodied_AI_Lab.htm">THU TEA lab, Beijing China</a>
+</div>
+<div class="experience-role">Research Assistant, Future 2025</div>
+<div class="experience-topics">Topics: Embodied Intelligence</div>
+</div>
+<div class="experience-logo">
+<img src="../images/tea_logo.jpg" alt="THU TEA lab Logo" />
+</div>
+</div>
+
+<div class="experience-card">
+<div class="experience-info">
+<div class="experience-title">
  <a href="https://iwin-fins.com/">SJTU IWIN-FINS lab, Shanghai China</a>
 </div>
-<div class="experience-role">Research Assistant, 2025</div>
+<div class="experience-role">Research Assistant, June 2025 - September 2025</div>
 <div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
 </div>
 <div class="experience-logo">
@@ -601,7 +614,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-title">
  <a href="https://www.eee.hku.hk/~iotlab/">HKU IoT lab, Hongkong SAR</a>
 </div>
-<div class="experience-role">Research Internship, 2025</div>
+<div class="experience-role">Research Internship, March 2025 - August 2025</div>
 <div class="experience-topics">Topics: Federated Learning, Fairness, Spatio‑temporal Graphs</div>
 </div>
 <div class="experience-logo">
