@@ -586,7 +586,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-card">
 <div class="experience-info">
 <div class="experience-title">
- <a href="https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Embodied_AI_Lab.htm">THU TEA lab, Beijing China</a>
+ <a href="https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Embodied_AI_Lab.htm">TEA lab, Tsinghua University</a>
 </div>
 <div class="experience-role">Research Assistant, Future 2025</div>
 <div class="experience-topics">Topics: Embodied Intelligence</div>
@@ -599,7 +599,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-card">
 <div class="experience-info">
 <div class="experience-title">
- <a href="https://iwin-fins.com/">SJTU IWIN-FINS lab, Shanghai China</a>
+ <a href="https://iwin-fins.com/">IWIN-FINS lab, Shanghai Jiao Tong University</a>
 </div>
 <div class="experience-role">Research Assistant, June 2025 - September 2025</div>
 <div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
@@ -612,7 +612,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="experience-card">
 <div class="experience-info">
 <div class="experience-title">
- <a href="https://www.eee.hku.hk/~iotlab/">HKU IoT lab, Hongkong SAR</a>
+ <a href="https://www.eee.hku.hk/~iotlab/">IoT lab,  The University of Hong Kong</a>
 </div>
 <div class="experience-role">Research Internship, March 2025 - August 2025</div>
 <div class="experience-topics">Topics: Federated Learning, Fairness, Spatio‑temporal Graphs</div>
