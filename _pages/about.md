@@ -440,7 +440,7 @@ hspace="10" wspace="20" src="../images/multicali.png">
 <span class="conference-label">IROS 2025</span>
 </dt>
 <dd><a href="https://wanghewei16.github.io/Multi-Cali-Anything/"><strong>Multi‑Cali Anything: Dense Feature Multi‑Frame Structure‑from‑Motion for Large‑Scale Camera Array Calibration</strong></a></dd>
-<dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, <strong>Jiayi Zhang</strong>, Jinfeng Xu, Puzhen Wu, Shubham Garg, Wei Pu</dd>
+<dd>Jinjiang You&dagger;, Hewei Wang&dagger;, Yijie Li, Mingxiao Huo, Long Van Tran Ha, Mingyuan Ma, Jinfeng Xu, <strong>Jiayi Zhang</strong>, Puzhen Wu, Shubham Garg, Wei Pu</dd>
 <dd>  <strong class="co-first"><i>Oral Presentation</i></strong> in International Conference on Intelligent Robots and Systems (<strong>IROS</strong>), 2025</dd>
 </dl>
 
