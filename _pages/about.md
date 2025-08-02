@@ -276,11 +276,10 @@ color: #2980b9;
 
 My name is Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>.
+I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>. WeChat is available for research-related communication. Thanks for understanding.
 
-<p style="font-size: 1.1em;">
 📄 You can download my CV <a href="assets/files/Jiayi_Zhang_Resume.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.
-</p>
+
 
 <!-- Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
 and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ). -->
@@ -324,6 +323,9 @@ a) Robotics Manipulation: Perception-aware policy learning and generalizable con
 b) Control-oriented Reinforcement Learning: Offline or online methods for continuous control and real-world decision making
 
 c) Large Model Inference Acceleration: Efficient architectures and optimization strategies for fast reasoning with foundation models
+
+I support <a href="http://slow-science.org/" style="color: #0066cc; text-decoration: underline;" target="_blank">Slow Science</a>.
+
 
 
 # 🔥 News
