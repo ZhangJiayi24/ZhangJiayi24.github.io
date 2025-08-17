@@ -470,7 +470,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <span class="conference-label">ICLRw 2025</span>
 </dt>
 <dd><a href="https://arxiv.org/abs/2504.14178"><strong>Segregation and Context Aggregation Network for Real‑Time Cloud Segmentation</strong></a></dd>
-  <dd>Yijie Li&dagger;, Hewei Wang&dagger;, Jiayi Zhang, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
+  <dd>Yijie Li&dagger;, Hewei Wang&dagger;, <strong>Jiayi Zhang</strong>, Jinjiang You, Jinfeng Xu, Puzhen Wu, Yunzhong Xiao, Soumyabrata Dev</dd>
 <dd>International Conference on Learning Representations Tackling Climate Change with Machine Learning Workshop(<strong>ICLR TCCML</strong>), 2025</dd>
 </dl>
 
