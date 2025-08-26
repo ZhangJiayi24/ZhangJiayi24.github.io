@@ -278,7 +278,7 @@ My name is Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergr
 
 I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>. 
 
-As WeChat is also part of my daily life, I kindly ask that it be used mainly for research-related communication.
+Anyways, if I am not in the lab you can probably find me running along the Yuanshi Park, taking a walk back home in Tianjin, or playing board games. I also enjoy drawing inspiration from great engineers and inventors such as Raffaello D’Andrea (Kiva Systems and Verity’s autonomous drones), and from literary rule-breakers like Hermann Hesse and James Joyce.
 
 📄 You can download my CV <a href="assets/files/Jiayi_Zhang_Resume.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.
 
