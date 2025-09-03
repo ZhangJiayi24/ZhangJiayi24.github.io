@@ -361,7 +361,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
  <li><em>2025.10:</em> 🎈 Great honor to have the opportunity to be a research assistant at the <strong>TEA lab</strong> at the <strong>Tsinghua University</strong>！</li>
- <li><em>2025.09:</em>  I serve as a semester peer mentor for 25-26 academic year for 2025 intake at UNNC.
+ <li><em>2025.09:</em>  I serve as a semester peer mentor for 25-26 academic year for 2025 intake at UNNC.</li>
  <li><em>2025.08:</em> I serve as a reviewer for <strong>AAAI 2026</strong>.</li> 
 <li><em>2025.06:</em> 🎈 Great honor to have the opportunity to be a research assistant at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
 <li><em>2025.06:</em> 🎉 Our paper: Multi-Cali Anything was selected as an <strong class="co-first">Oral Presentation</strong> at <strong>IROS 2025</strong>. See you in Hangzhou.</li>
