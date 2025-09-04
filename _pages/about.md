@@ -479,40 +479,10 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <hr>
 
 
-<!-- 
-<dl>
- <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/EARTH.png">
-<span class="conference-label">ICML 2025</span>
-</dt>
- <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-
-<hr>-->
 
 
 <br>
 
-<!-- 
-# 🔬 Survey and Benchmark
-
-- **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
-
-- **Protein Large Language Models: A Comprehensive Survey**
-
-- **A Comprehensive Survey in LLM (-Agent) Full Stack Safety: Data, Training and Deployment**
-
-- **From Web Search towards Agentic Deep ReSearch: Incentivizing Search with Reasoning Agents**
-
-- **A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications**
-
-- **A Comprehensive Survey on Scientific Large Language Models in Physics**
-
-- **FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation**
--->
 
 
 
@@ -531,24 +501,13 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <div class="service-section">
 <h3>Conference Committee Member</h3>
 <ul class="service-list">
+<li>Reviewer for AAAI'2026</li>
 <li>Reviewer for NeurIPS'2025, EMNLP'2025</li>
 <li>Reviewer for AAAI'2026</li>
 </ul>
 </div>
 
-<!--
-<div class="service-section">
- <h3>Journal Reviewer</h3>
- <ul class="service-list">
-   <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
-   <li>ACM TKDD</li>
-   <li>Pattern Recognition (PR)</li>
-   <li>Data-centric Machine Learning Research (DMLR)</li>
- </ul>
-</div>
--->
 
-<!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 
 <br/>
@@ -563,19 +522,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <br/>
 
 # 📖 Education
-<!--
-<div class="education-card">
- <div class="education-info">
-   <div class="education-title">
-     <strong>2025.09 - Now</strong><br/>
-     PhD, Computer Science, University of California, Los Angeles (UCLA)
-   </div>
- </div>
- <div class="education-logo">
-   <img src="../images/UCLA.png" alt="UCLA Logo" />
- </div>
-</div>
--->
+
 
 <div class="education-card">
 <div class="education-info">
@@ -636,27 +583,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 -->
 
 
-<!--
-# 🏀 Miscellaneous
 
-<details>
- <summary><strong>Talks and Shares</strong></summary>
-<dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
-
-
-
-
-</details>
-
-
-<details>
- <summary><strong>Undergraduate research resource and enrollment process</strong></summary>
-
-<dd><a href="https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd"><strong>Link</strong></a></dd>
-
-
-</details>
--->
 
 <details>
 <summary><strong>Quote that inspire me</strong></summary>
