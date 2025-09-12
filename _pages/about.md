@@ -591,7 +591,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 
 </details>
 
-
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8&cl=ffffff&w=a"></script>
 
 <br>
 
