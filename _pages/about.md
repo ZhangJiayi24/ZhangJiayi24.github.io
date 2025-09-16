@@ -458,7 +458,7 @@ hspace="10" wspace="20" src="../images/multicali.png">
 hspace="10" wspace="20" src="../images/specllava.png">
 <span class="conference-label">ICMLw 2025</span>
 </dt>
-<dd><a href="https://openreview.net/forum?id=GiILZG2fjG"><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
+<dd><a href="https://arxiv.org/abs/2509.11961"><strong>Spec‑LLAVA: Accelerating Vision‑Language Models with Dynamic Tree‑Based Speculative Decoding</strong></a></dd>
   <dd>Mingxiao Huo&dagger;,<strong>Jiayi Zhang&dagger;</strong> <span class="co-first">(co-first)</span>, Hewei Wang&dagger;, Jinfeng Xu, Zheyu Chen, Huilin Tai, Ian Yijun Chen</dd>
 <dd>International Conference on Machine Learning Tiny Titans: The next wave of On-Device Learning for Foundational Models Workshop (<strong>ICML TTODLer-FM</strong>), 2025</dd>
 </dl>
