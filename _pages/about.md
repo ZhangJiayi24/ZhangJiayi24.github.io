@@ -361,6 +361,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
  <li><em>2025.10:</em> 🎈 Great honor to have the opportunity to be a research assistant at the <strong>TEA lab</strong> at the <strong>Tsinghua University</strong>！</li>
+ <li><em>2025.09:</em>  I serve as a reviewer for <strong>NeurIPS 2025 Efficient Reasoning Workshop</strong>. </li>
  <li><em>2025.09:</em>  I serve as a semester peer mentor for 25-26 academic year for 2025 intake at UNNC.</li>
  <li><em>2025.08:</em> I serve as a reviewer for <strong>AAAI 2026</strong>.</li> 
 <li><em>2025.06:</em> 🎈 Great honor to have the opportunity to be a research assistant at the <strong>IWIN-FINS lab</strong> at the <strong>Shanghai Jiao Tong University.</strong> </li>
@@ -368,7 +369,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2025.06:</em> 🎉 Our work: Spec-LLaVA was accepted by <strong>ICML 2025 TTODLer-FM Workshop</strong>. See you in Vancouver.</li>
 <li><em>2025.05:</em> 🥈 We got Honorable Mention (Second Prize) in ICM 2025! Congrads and thanks to my teammates!</li>
 <li><em>2025.05:</em> I serve as a reviewer for <strong>EMNLP 2025</strong>.</li> 
-<li><em>2025.04:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li> 
+<li><em>2025.04:</em>  I serve as a reviewer for <strong>NeurIPS 2025</strong>. </li>
 <li><em>2025.04:</em> 🌐 My personal academic homepage is now online.</li>
 <li><em>2025.03:</em> 🎈 Great honor to have the opportunity to be a research intern at the <strong>IoT lab</strong> at <strong>The University of Hong Kong.</strong> </li>
 <li><em>2025.03:</em> 🎉 Our work: SCANet was accepted by <strong>ICLR 2025 Tackling Climate Change with Machine Learning Workshop</strong>. See you in Singapore.</li>
