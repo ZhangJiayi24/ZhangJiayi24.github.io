@@ -278,7 +278,7 @@ My name is Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergr
 
 I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>. 
 
-Out of research, I love watching Formula 1 (tifosi!!!) and football games (Man city fans!). I love playing mahjong as well.
+Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCity fan!). I also love playing mahjong.
 
 Anyways, if I am not in the lab you can probably find me running along the Yuanshi Park, taking a walk back home in Tianjin, or playing board games. I also enjoy drawing inspiration from great engineers and inventors such as Raffaello D’Andrea, and from literary rule-breakers like Hermann Hesse and James Joyce.
 
