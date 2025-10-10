@@ -548,7 +548,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <div class="experience-title">
  <a href="https://iiis.tsinghua.edu.cn/en/Research/Research_Groups/Tsinghua_Embodied_AI_Lab.htm">TEA lab, Tsinghua University</a>
 </div>
-<div class="experience-role">Research Assistant, Future 2025</div>
+<div class="experience-role">Research Assistant, October 2025</div>
 <div class="experience-topics">Topics: Embodied Intelligence</div>
 </div>
 <div class="experience-logo">
