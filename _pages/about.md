@@ -506,7 +506,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <div class="service-section">
 <h3>Conference Committee Member</h3>
 <ul class="service-list">
-<li>Reviewer for AAAI'2026</li>
+<li>Reviewer for AAAI'2026, AISTATS'2026</li>
 <li>Reviewer for NeurIPS'2025</li>
 
 </ul>
