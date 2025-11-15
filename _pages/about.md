@@ -447,6 +447,20 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 
 <dl>
 <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/Multi-DProxy.pdf">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+<dd><a href="https://arxiv.org/abs/2511.07274"><strong>Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering</strong></a></dd>
+<dd>Jinfeng Xu, Zheyu Chen, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, <strong>Jiayi Zhang</strong>, Edith C. H. Ngai
+</dd>
+<dd>The AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/multicali.png">
 <span class="conference-label">IROS 2025</span>
 </dt>
