@@ -447,7 +447,7 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 
 <dl>
 <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/Multi-DProxy.pdf">
+hspace="10" wspace="20" src="../images/dproxy.png">
 <span class="conference-label">AAAI 2026</span>
 </dt>
 <dd><a href="https://arxiv.org/abs/2511.07274"><strong>Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering</strong></a></dd>
