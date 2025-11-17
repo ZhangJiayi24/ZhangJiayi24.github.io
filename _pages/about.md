@@ -274,9 +274,9 @@ color: #2980b9;
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
+Hi there, I am Jiayi Zhang (张珈译), a second year Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-I am open to any relavant research collaboration and internship. 🥳 Feel free to contact me via <a href="mailto:smyjz19@nottingham.edu.cn">Email</a> or <a href="https://ZhangJiayi24.github.io/images/Wechat.png">WeChat</a>. 
+<p> I am currently a research assistant in Embodied AI at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by <a href="http://hxu.rocks/" target="_blank" rel="noopener noreferrer">Professor Huazhe Xu</a>. Previously, I worked as a research assistant in the IWIN-FINS Lab at Shanghai Jiao Tong University and the IoT Lab at the University of Hong Kong. </p>
 
 Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCity fan!). I also love playing mahjong.
 
