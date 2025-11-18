@@ -515,6 +515,9 @@ hspace="10" wspace="20" src="../images/scanet.png">
    <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
  </ul>
 </div>
+
+- *2023.1* **Chinese Mathematical Olympiad 2022, Sliver Model** (第38届中国数学奥林匹克竞赛决赛 银牌) *Shenzhen China*
+
 -->
 
 <div class="service-section">
@@ -534,8 +537,6 @@ hspace="10" wspace="20" src="../images/scanet.png">
 # 🎖 Scholarships and Honors
 
 - *2025.5* **Interdisciplinary Contest in Modeling 2025, Honorable Mention (Second Prize)** (美赛建模 H奖) *Consortium for Mathematics and Its Applications*
-
-- *2023.1* **Chinese Mathematical Olympiad 2022, Sliver Model** (第38届中国数学奥林匹克竞赛决赛 银牌) *Shenzhen China*
 
 
 <br/>
