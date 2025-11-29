@@ -324,7 +324,7 @@ I aim to build intelligent agents that can efficiently perceive, interpret, and 
 
 a) Robotic Motion Planning: Models and algorithms for planning feasible and reliable actions in dynamic environments.
 
-b) Reinforcement Learning (Post-Training): Post-training methods for robotic foundation models to improve task speed, accuracy, adaptability, and safety.
+b) Reinforcement Learning (Post-Training): Post-training robotic foundation models for better speed, accuracy, adaptability, and safety.
 
 c) Large Model Inference Acceleration: Efficient architectures and optimization techniques for fast reasoning in foundation models.
 
