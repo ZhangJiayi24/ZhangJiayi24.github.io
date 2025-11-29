@@ -320,13 +320,15 @@ I am looking for research opportunities in 26Fall related to robotics and embodi
 <!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
 <!-- </dt> -->
 
-I focus on developing efficient and intelligent systems that integrate learning and control for perception, reasoning, and real-world interaction. My current research interests focus on three key areas:
+I aim to build intelligent agents that can efficiently perceive, interpret, and interact with the physical world. My current research interests focus on three areas:
 
-a) Robotics Manipulation: Perception-aware policy learning and generalizable control for physical interaction 
+a) Robotic Motion Planning: Models and algorithms for planning feasible and reliable actions in dynamic environments.
 
-b) Control-oriented Reinforcement Learning: Offline or online methods for continuous control and real-world decision making
+b) Reinforcement Learning (Post-Training): Post-training methods for robotic foundation models to improve task speed, accuracy, adaptability, and safety.
 
-c) Large Model Inference Acceleration: Efficient architectures and optimization strategies for fast reasoning with foundation models
+c) Large Model Inference Acceleration: Efficient architectures and optimization techniques for fast reasoning in foundation models.
+
+Previously, I worked on graph learning models for forecasting, image segmentation, and distributed learning frameworks.
 
 I support <a href="http://slow-science.org/" style="color: #0066cc; text-decoration: underline;" target="_blank">Slow Science</a>.
 
