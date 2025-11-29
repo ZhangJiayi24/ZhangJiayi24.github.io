@@ -537,7 +537,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 # 🎖 Scholarships and Honors
 
 
-- *2025.11* **9th Golden Interns Award, Third Prize & Best Researcher Award** (<a href="https://mp.weixin.qq.com/s/kKN6KdFrBrQJ23TVwDoh6w">实习金像奖 三等奖&最佳研究奖</a></li>) *UNNC*
+- *2025.11* **9th Golden Interns Award, Third Prize + Best Researcher Award** (<li><a href="https://mp.weixin.qq.com/s/kKN6KdFrBrQJ23TVwDoh6w">实习金像奖 三等奖+最佳研究奖</a></li>) *UNNC*
 - *2025.5* **Interdisciplinary Contest in Modeling 2025, Honorable Mention (Second Prize)** (美赛建模 H奖) *Consortium for Mathematics and Its Applications*
 
 
