@@ -276,7 +276,7 @@ color: #2980b9;
 
 Hi there, I am Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-<p> I am currently a research assistant in Embodied AI at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by Professor <a href="http://hxu.rocks/" target="_blank" rel="noopener noreferrer">Huazhe Xu</a>. Previously, I worked as a research assistant in the IWIN-FINS Lab at SJTU and the IoT Lab at HKU. </p>
+<p> I am currently a research assistant in the Tsinghua Embodied AI lab at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by Professor <a href="http://hxu.rocks/" target="_blank" rel="noopener noreferrer">Huazhe Xu</a>. Previously, I worked as a research assistant in the IWIN-FINS Lab at SJTU and the IoT Lab at HKU. </p>
 
 Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCity fan!). I also love playing mahjong.
 
