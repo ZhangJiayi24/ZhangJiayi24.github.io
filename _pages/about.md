@@ -608,6 +608,26 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <a href="http://www.clustrmaps.com/map/Zhangjiayi24.github.io" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8" /></a>
 -->
 
+# 👋 My Friends
+
+<div class="experience-card">
+<div class="experience-info">
+<div class="experience-title">
+ <a href="https://dongjiacheng06.github.io/">Jiacheng Dong, ZJU-UIUC</a>
+</div>
+<div class="experience-role">Electrical Engineering, 2024–2028</div>
+<div class="experience-topics">He is passionate about 3D vision, 3D Gaussian Splatting, and 3D reconstruction.<br>
+He recently joined the CVNext Lab.</div>
+
+</div>
+<div class="experience-logo">
+<img src="../images/tea_logo.jpg" alt="THU TEA lab Logo" />
+</div>
+</div>
+
+
+
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8&cl=ffffff&w=a"></script>
 
