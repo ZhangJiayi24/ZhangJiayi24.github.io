@@ -621,7 +621,7 @@ He recently joined the CVNext Lab.</div>
 
 </div>
 <div class="experience-logo">
-<img src="../images/tea_logo.jpg" alt="THU TEA lab Logo" />
+<img src="../images/image.png" alt="Jiacheng Dong" />
 </div>
 </div>
 
