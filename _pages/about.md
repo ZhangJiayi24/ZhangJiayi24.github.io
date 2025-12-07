@@ -282,6 +282,8 @@ Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCi
 
 Anyways, if I am not in the lab you can probably find me running along the Yuanshi Park, taking a walk back home in Tianjin, or playing board games. I also enjoy drawing inspiration from great engineers and inventors such as Raffaello D’Andrea, and from literary rule-breakers like Hermann Hesse and James Joyce.
 
+If you would like to schedule a coffee chat, please feel free to email me. I will be in Ningbo before January 8 2026, and in Beijing or Tianjin from January 8 to February 24 (tentative).
+
 📄 You can download my CV <a href="assets/files/Jiayi_Zhang_Resume.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.
 
 
