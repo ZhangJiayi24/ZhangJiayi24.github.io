@@ -322,13 +322,11 @@ I am looking for research opportunities in 26Fall related to robotics and embodi
 <!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
 <!-- </dt> -->
 
-I aim to build intelligent agents that can efficiently perceive, interpret, and interact with the physical world. My current research interests focus on three areas:
+I have recently become interested in integrating neuro-symbolic planning with foundation models to address long-horizon tasks. I aim to incorporate the classical Task and Motion Planning (TAMP) framework into a unified architecture that can hierarchically learn symbolic concepts while simultaneously handling uncertainty and partial observability.
 
-a) Robotic Motion Planning: Models and algorithms for planning feasible and reliable actions in dynamic environments.
+In the future, I will most likely explore humanoid robotics through learning-based approaches, such as Vision–Language–Action (VLA) models.
 
-b) Reinforcement Learning (Post-Training): Post-training robotic foundation models for better speed, accuracy, adaptability, and safety.
-
-c) Large Model Inference Acceleration: Efficient architectures and optimization techniques for fast reasoning in foundation models.
+If you have similar experience or research interests and would be interested in collaborating, please feel free to reach out to me.
 
 Previously, I worked on graph learning models for forecasting, image segmentation, and distributed learning frameworks.
 
