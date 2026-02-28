@@ -315,14 +315,14 @@ I am looking for research opportunities in 26Fall related to robotics and embodi
 
 
 
-# 🔎 Research 
+# 🤖 Research 
 <!-- "All things are interconnected, this is the essence of nature."  -->
 
 <!-- <dt style="text-align: center; margin: 0; padding: 0;"> -->
 <!-- <img src="../images/research.png" style="display: block; max-width: 700px; width: 100%; height: auto; margin: 0 auto;"> -->
 <!-- </dt> -->
 
-I have recently become interested in integrating neuro-symbolic planning with foundation models to address long-horizon tasks. I aim to incorporate the classical Task and Motion Planning (TAMP) framework into a unified architecture that can hierarchically learn symbolic concepts while simultaneously handling uncertainty and partial observability.
+I have recently become interested in integrating neuro-symbolic planning with foundation models to address long-horizon tasks. I aim to incorporate the classical Task and Motion Planning (TAMP) framework into a unified architecture that can hierarchically learn symbolic concepts while simultaneously handling uncertainty and partial observability. I hope to enable robots to play Mahjong🀄️ at the table together with humans.
 
 In the future, I will most likely explore humanoid robotics through learning-based approaches, such as Vision–Language–Action (VLA) models.
 
