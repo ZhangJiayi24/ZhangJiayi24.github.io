@@ -562,7 +562,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 
 
 # 💼 Experience
-
+<!--
 <div class="experience-card">
 <div class="experience-info">
 <div class="experience-title">
@@ -575,6 +575,8 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <img src="../images/tea_logo.jpg" alt="THU TEA lab Logo" />
 </div>
 </div>
+-->
+
 
 <div class="experience-card">
 <div class="experience-info">
