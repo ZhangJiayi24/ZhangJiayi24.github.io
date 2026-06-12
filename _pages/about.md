@@ -583,7 +583,7 @@ hspace="10" wspace="20" src="../images/scanet.png">
 <div class="experience-title">
  <a href="https://iwin-fins.com/">IWIN-FINS lab, Shanghai Jiao Tong University</a>
 </div>
-<div class="experience-role">Research Assistant, June 2025 - September 2025</div>
+<div class="experience-role">Research Assistant, June 2025 - June 2026</div>
 <div class="experience-topics">Topics: Generative Model, Manipulation, Reinforcement Learning</div>
 </div>
 <div class="experience-logo">
