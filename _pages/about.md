@@ -276,13 +276,13 @@ color: #2980b9;
 
 Hi there, I am Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-Previously, I worked as a research assistant in the IWIN-FINS Lab at SJTU and the IoT Lab at HKU. </p>
+I am currently a Research Assistant at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by <a href="https://www.mengdixu.me/">Prof. Mengdi Xu</a>. Previously, I conducted research at the IWIN-FINS Lab at Shanghai Jiao Tong University and the IoT Lab at the University of Hong Kong.
 
 Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCity fan!). I also love playing mahjong.
 
 Anyways, if I am not in the lab you can probably find me running along the Yuanshi Park, taking a walk back home in Tianjin, or playing board games. I also enjoy drawing inspiration from great engineers and inventors such as Raffaello D’Andrea, and from literary rule-breakers like Hermann Hesse and James Joyce.
 
-If you would like to schedule a coffee chat, please feel free to email me. Until June 1, I will be in Ningbo from Monday to Friday 4 PM, and in Shanghai from Friday 8 PM to Sunday 6:30 PM. 
+If you would like to schedule a coffee chat, please feel free to email me. Until Oct 1, I will be in Beijing.
 
 📄 You can download my CV <a href="assets/files/Jiayi_Zhang_Resume.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.
 
