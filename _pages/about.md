@@ -276,7 +276,7 @@ color: #2980b9;
 
 Hi there, I am Jiayi Zhang (张珈译), a Mathematics and Applied Mathmatics Undergrad student at University of Nottingham Ningbo China ([UNNC]([https://www.ucla.edu/](https://www.nottingham.edu.cn/en/index.aspx))). 
 
-I am currently a Research Assistant at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by <a href="https://www.mengdixu.me/">Prof. Mengdi Xu</a>. Previously, I conducted research at the IWIN-FINS Lab at Shanghai Jiao Tong University and the IoT Lab at the University of Hong Kong.
+I am now a Research Assistant at the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, advised by <a href="https://www.mengdixu.me/">Prof. Mengdi Xu</a>. Previously, I conducted research at the IWIN-FINS Lab at Shanghai Jiao Tong University and the IoT Lab at the University of Hong Kong.
 
 Besides research, I enjoy watching Formula 1 (tifosi!) and football games (ManCity fan!). I also love playing mahjong.
 
