@@ -627,10 +627,7 @@ He recently joined the CVNext Lab.</div>
 
 
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xW8FbbCMgdoUx8dMc__ngoHlihLD-rZn7XPVU7XUeh8&cl=ffffff&w=a"></script>
-
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=y7cg8V57JC9lH5HJJTXzWO4K_uB-KMKzUm6rIHeTtCk&cl=ffffff&w=a"></script>
 <br>
 
 <br>
