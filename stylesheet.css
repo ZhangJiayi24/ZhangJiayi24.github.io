@@ -145,7 +145,7 @@ a {
 
 .eyebrow,
 .section-kicker,
-.opportunity-label {
+.meeting-label {
   margin: 0 0 0.55rem;
   color: var(--muted);
   font-size: 0.76rem;
@@ -243,42 +243,81 @@ a {
   color: white;
 }
 
-.opportunity {
+.meeting-cta {
   display: flex;
   align-items: center;
-  gap: 2rem;
+  justify-content: space-between;
+  gap: 1.5rem;
   margin-top: 1.25rem;
-  padding-top: 1.25rem;
-  padding-bottom: 1.25rem;
-  border: 1px solid rgba(17, 105, 91, 0.3);
-  border-radius: 15px;
-  background: linear-gradient(110deg, rgba(17, 105, 91, 0.1), rgba(234, 196, 71, 0.11));
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
 }
 
-.opportunity > div {
+.meeting-cta > div:first-child {
   flex: 1;
 }
 
-.opportunity-label {
+.meeting-label {
   color: var(--accent);
 }
 
-.opportunity p:last-child {
+.meeting-cta p:last-child {
   margin: 0;
+  color: var(--muted);
 }
 
-.opportunity-action {
+.meeting-actions {
+  display: flex;
   flex: 0 0 auto;
-  padding: 0.62rem 1rem;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.calendar-action,
+.email-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  min-height: 2.55rem;
+  padding: 0.48rem 0.9rem;
+  border: 1px solid var(--line);
   border-radius: 999px;
-  background: var(--accent);
-  color: white;
+  background: var(--card);
+  color: var(--accent);
+  font-size: 0.86rem;
   font-weight: 600;
 }
 
-.opportunity-action:hover {
+.calendar-action {
+  background: var(--accent);
+  color: white;
+}
+
+.calendar-action:hover {
   background: var(--warm);
   color: white;
+}
+
+.email-action:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.calendar-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.35rem;
+  height: 1.35rem;
+  border: 2px solid #fff;
+  border-top-color: var(--gold);
+  border-radius: 4px;
+  color: #fff;
+  font-size: 0.55rem;
+  font-weight: 700;
+  line-height: 1;
 }
 
 .section {
@@ -1006,12 +1045,17 @@ a {
     padding: 2.8rem 0 1.7rem;
   }
 
-  .opportunity {
+  .meeting-cta {
     align-items: flex-start;
     flex-direction: column;
     gap: 1rem;
     margin-left: 1.15rem;
     margin-right: 1.15rem;
+  }
+
+  .meeting-actions {
+    width: 100%;
+    flex-wrap: wrap;
   }
 
   .news-list li,
