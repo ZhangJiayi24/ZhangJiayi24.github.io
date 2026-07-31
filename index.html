@@ -108,20 +108,68 @@
         <p class="section-kicker">Current focus</p>
         <h2 class="section-title">Research</h2>
         <div class="research-grid">
-          <article class="research-card">
-            <span class="research-index">01</span>
-            <h3>Neuro-symbolic planning</h3>
-            <p>Integrating symbolic concepts and foundation models for long-horizon, partially observable tasks.</p>
+          <article class="research-card research-card--planning" tabindex="0" aria-label="Neuro-symbolic planning. Hover or focus to reveal an illustration.">
+            <div class="research-copy">
+              <span class="research-index">01</span>
+              <h3>Neuro-symbolic planning</h3>
+              <p>Integrating symbolic concepts and foundation models for long-horizon, partially observable tasks.</p>
+            </div>
+            <div class="research-visual planning-visual" aria-hidden="true">
+              <span class="visual-tag">Perceive · Reason · Act</span>
+              <div class="planning-path planning-path--one"></div>
+              <div class="planning-path planning-path--two"></div>
+              <div class="planning-path planning-path--three"></div>
+              <div class="planning-path planning-path--merge"></div>
+              <span class="planning-merge-dot"></span>
+              <span class="planning-node planning-node--eye"><i class="fa-solid">&#xf06e;</i><b>scene</b></span>
+              <span class="planning-node planning-node--graph"><i class="fa-solid">&#xf542;</i><b>symbols</b></span>
+              <span class="planning-node planning-node--plan"><i class="fa-solid">&#xf0ae;</i><b>plan</b></span>
+              <span class="planning-node planning-node--goal"><i class="fa-solid">&#xf11e;</i><b>goal</b></span>
+              <span class="visual-caption">A grounded plan through uncertainty</span>
+            </div>
           </article>
-          <article class="research-card">
-            <span class="research-index">02</span>
-            <h3>Robot manipulation</h3>
-            <p>Bringing task and motion planning into unified learning systems that can act under uncertainty.</p>
+          <article class="research-card research-card--manipulation" tabindex="0" aria-label="Robot manipulation. Hover or focus to reveal an illustration.">
+            <div class="research-copy">
+              <span class="research-index">02</span>
+              <h3>Robot manipulation</h3>
+              <p>Bringing task and motion planning into unified learning systems that can act under uncertainty.</p>
+            </div>
+            <div class="research-visual manipulation-visual" aria-hidden="true">
+              <span class="visual-tag">Task + Motion</span>
+              <span class="motion-arc motion-arc--outer"></span>
+              <span class="motion-arc motion-arc--inner"></span>
+              <div class="robot-base"></div>
+              <div class="robot-joint robot-joint--base"></div>
+              <div class="robot-arm robot-arm--lower"></div>
+              <div class="robot-joint robot-joint--elbow"></div>
+              <div class="robot-arm robot-arm--upper"></div>
+              <div class="robot-joint robot-joint--wrist"></div>
+              <div class="robot-arm robot-arm--hand"></div>
+              <div class="robot-gripper"><i></i><i></i></div>
+              <span class="tile-slot"></span>
+              <div class="target-tile"><span lang="zh-Hans">中</span></div>
+              <span class="visual-caption">Precision grasping in contact-rich space</span>
+            </div>
           </article>
-          <article class="research-card">
-            <span class="research-index">03</span>
-            <h3>Embodied foundation models</h3>
-            <p>Exploring learning-based humanoid robotics and Vision–Language–Action models.</p>
+          <article class="research-card research-card--foundation" tabindex="0" aria-label="Embodied foundation models. Hover or focus to reveal an illustration.">
+            <div class="research-copy">
+              <span class="research-index">03</span>
+              <h3>Embodied foundation models</h3>
+              <p>Exploring learning-based humanoid robotics and Vision–Language–Action models.</p>
+            </div>
+            <div class="research-visual foundation-visual" aria-hidden="true">
+              <span class="visual-tag">Vision · Language · Action</span>
+              <span class="modality modality--vision"><i class="fa-solid">&#xf06e;</i><b>V</b></span>
+              <span class="modality modality--language"><i class="fa-solid">&#xf075;</i><b>L</b></span>
+              <span class="modality modality--action"><i class="fa-solid">&#xf256;</i><b>A</b></span>
+              <span class="model-orbit model-orbit--one"></span>
+              <span class="model-orbit model-orbit--two"></span>
+              <div class="embodied-robot">
+                <span class="robot-head"><i></i><i></i></span>
+                <span class="robot-body"><b></b><b></b><b></b></span>
+              </div>
+              <span class="visual-caption">One model, grounded in the world</span>
+            </div>
           </article>
         </div>
         <p class="research-note">
@@ -141,21 +189,21 @@
           <a href="https://iwin-fins.com/">Jianping He</a>, and
           <a href="https://ece.hku.hk/people/echngai/">Edith C.H. Ngai</a>, and grateful to collaborate with many wonderful colleagues.
           See the <a href="https://scholar.google.com/citations?hl=en&amp;user=bLUpHDsAAAAJ">full list on Google Scholar</a>.
-          † denotes equal contribution.
+          <span class="contribution-note">† denotes equal contribution.</span>
         </p>
         <div class="pub-filters" aria-label="Filter publications">
           <button class="pub-filter is-active" type="button" data-filter="all">All</button>
           <button class="pub-filter" type="button" data-filter="robotics">Robotics</button>
           <button class="pub-filter" type="button" data-filter="vision-language">Vision &amp; Language</button>
-          <button class="pub-filter" type="button" data-filter="graph-learning">Graph Learning</button>
+          <button class="pub-filter" type="button" data-filter="multimodal-learning">Multimodal Learning</button>
         </div>
         <div class="pub-list">
-          <article class="pub" data-category="graph-learning">
+          <article class="pub" data-category="multimodal-learning">
             <a class="pub-media" href="https://arxiv.org/abs/2511.07274">
               <img src="images/dproxy.png" alt="Multi-modal Dynamic Proxy Learning overview" width="1949" height="756">
             </a>
             <div class="pub-body">
-              <div class="pub-meta"><span>AAAI 2026</span><span>Graph Learning</span></div>
+              <div class="pub-meta"><span>AAAI 2026</span><span>Multimodal Learning</span></div>
               <h3><a href="https://arxiv.org/abs/2511.07274">Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering</a></h3>
               <p class="pub-authors">Jinfeng Xu, Zheyu Chen, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, <strong>Jiayi Zhang</strong>, Edith C. H. Ngai</p>
               <div class="pub-links"><a href="https://arxiv.org/abs/2511.07274">Paper</a></div>
