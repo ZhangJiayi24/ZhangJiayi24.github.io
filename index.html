@@ -5,18 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Jiayi Zhang | Academic Homepage</title>
   <meta name="author" content="Jiayi Zhang">
-  <meta name="description" content="Jiayi Zhang is a mathematics undergraduate and embodied AI researcher working on neuro-symbolic planning, robot manipulation, and geometry-aware decision-making.">
+  <meta name="description" content="Jiayi Zhang is a mathematics undergraduate and embodied AI researcher working on foundation-model-based robot learning, reliable long-horizon manipulation, and geometry-aware visuomotor policies.">
   <meta name="theme-color" content="#f7f4ef">
   <link rel="canonical" href="https://zhangjiayi24.github.io/">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&amp;family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/academicons.css">
-  <link rel="stylesheet" href="stylesheet.css">
+  <link rel="stylesheet" href="stylesheet.css?v=20260828-2">
   <link rel="icon" type="image/png" href="images/site-icon.png">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Jiayi Zhang | Academic Homepage">
-  <meta property="og:description" content="Research in embodied intelligence, neuro-symbolic planning, and robot learning.">
+  <meta property="og:description" content="Research in foundation-model-based robot learning, long-horizon manipulation, and geometry-aware visuomotor policies.">
   <meta property="og:url" content="https://zhangjiayi24.github.io/">
   <meta property="og:image" content="https://zhangjiayi24.github.io/images/head.jpg">
   <script type="application/ld+json">
@@ -32,10 +32,6 @@
       {
         "@type": "Organization",
         "name": "Institute for Interdisciplinary Information Sciences, Tsinghua University"
-      },
-      {
-        "@type": "Organization",
-        "name": "Beijing Academy of Artificial Intelligence"
       }
     ],
     "alumniOf": {
@@ -43,10 +39,11 @@
       "name": "University of Nottingham Ningbo China"
     },
     "knowsAbout": [
-      "Embodied Intelligence",
-      "Neuro-symbolic Planning",
-      "Robot Manipulation",
-      "Vision-Language-Action Models"
+      "Foundation-Model-Based Robot Learning",
+      "Long-Horizon Robot Manipulation",
+      "Structured Task-and-Motion Reasoning",
+      "Geometry-Aware Visuomotor Policies",
+      "In-Context Learning"
     ],
     "sameAs": [
       "https://github.com/ZhangJiayi24",
@@ -77,9 +74,9 @@
         <p class="eyebrow">Mathematics · Embodied AI · Robot Learning</p>
         <h1>Jiayi Zhang <span lang="zh-Hans">(张珈译)</span></h1>
         <p class="bio-lead">
-          I work on long-horizon robot manipulation and neuro-symbolic planning.
+          I work on foundation-model-based robot learning for reliable, long-horizon manipulation.
         </p>
-        <p>I am now at THU and BAAI. Previously, I was at SJTU and HKU.</p>
+        <p>I am now at THU. Previously, I was at SJTU and HKU.</p>
         <div class="link-row" aria-label="Profile links">
           <a href="assets/files/Jiayi_Zhang_Resume.pdf" aria-label="CV" title="CV"><span class="fa-solid" aria-hidden="true">&#xf1c1;</span></a>
           <a href="https://scholar.google.com/citations?hl=en&amp;user=bLUpHDsAAAAJ" aria-label="Google Scholar" title="Google Scholar"><span class="ai ai-google-scholar" aria-hidden="true"></span></a>
@@ -114,34 +111,37 @@
         <p class="section-kicker">Current focus</p>
         <h2 class="section-title">Research</h2>
         <div class="research-grid">
-          <article class="research-card research-card--planning" tabindex="0" aria-label="Neuro-symbolic planning. Hover or focus to reveal an illustration.">
+          <article class="research-card research-card--planning" tabindex="0" aria-label="Structured task-and-motion reasoning. Hover or focus to reveal an illustration.">
             <div class="research-copy">
               <span class="research-index">01</span>
-              <h3>Neuro-symbolic planning</h3>
-              <p>Integrating symbolic concepts and foundation models for long-horizon, partially observable tasks.</p>
+              <h3>Structured task-and-motion reasoning</h3>
+              <p>Grounding semantic goals into reusable skills and closed-loop plans for reliable, long-horizon tasks.</p>
             </div>
             <div class="research-visual planning-visual" aria-hidden="true">
-              <span class="visual-tag">Perceive · Reason · Act</span>
-              <div class="planning-path planning-path--one"></div>
-              <div class="planning-path planning-path--two"></div>
-              <div class="planning-path planning-path--three"></div>
-              <div class="planning-path planning-path--merge"></div>
-              <span class="planning-merge-dot"></span>
-              <span class="planning-node planning-node--eye"><i class="fa-solid">&#xf06e;</i><b>scene</b></span>
-              <span class="planning-node planning-node--graph"><i class="fa-solid">&#xf542;</i><b>symbols</b></span>
-              <span class="planning-node planning-node--plan"><i class="fa-solid">&#xf0ae;</i><b>plan</b></span>
-              <span class="planning-node planning-node--goal"><i class="fa-solid">&#xf11e;</i><b>goal</b></span>
-              <span class="visual-caption">A grounded plan through uncertainty</span>
+              <span class="visual-tag">Goal → Task → Skill → Motion</span>
+              <div class="process-diagram process-diagram--reasoning">
+                <div class="process-flow">
+                  <span class="process-node"><i class="fa-solid">&#xf11e;</i><b>Goal</b></span>
+                  <span class="process-link process-link--1"></span>
+                  <span class="process-node"><i class="fa-solid">&#xf0ae;</i><b>Task plan</b></span>
+                  <span class="process-link process-link--2"></span>
+                  <span class="process-node"><i class="fa-solid">&#xf1b3;</i><b>Skills</b></span>
+                  <span class="process-link process-link--3"></span>
+                  <span class="process-node"><i class="fa-solid">&#xf013;</i><b>Motion</b></span>
+                </div>
+                <div class="process-return"><span>execution feedback</span></div>
+              </div>
+              <span class="visual-caption">Semantic goals become reusable, executable skills</span>
             </div>
           </article>
-          <article class="research-card research-card--manipulation" tabindex="0" aria-label="Robot manipulation. Hover or focus to reveal an illustration.">
+          <article class="research-card research-card--manipulation" tabindex="0" aria-label="Geometry-aware visuomotor policies. Hover or focus to reveal an illustration.">
             <div class="research-copy">
               <span class="research-index">02</span>
-              <h3>Robot manipulation</h3>
-              <p>Bringing task and motion planning into unified learning systems that can act under uncertainty.</p>
+              <h3>Geometry-aware visuomotor policies</h3>
+              <p>Connecting perception and control through effective action representations for reliable manipulation.</p>
             </div>
             <div class="research-visual manipulation-visual" aria-hidden="true">
-              <span class="visual-tag">Task + Motion</span>
+              <span class="visual-tag">Perception + Control</span>
               <span class="motion-arc motion-arc--outer"></span>
               <span class="motion-arc motion-arc--inner"></span>
               <div class="robot-base"></div>
@@ -154,27 +154,27 @@
               <div class="robot-gripper"><i></i><i></i></div>
               <span class="tile-slot"></span>
               <div class="target-tile"><span lang="zh-Hans">中</span></div>
-              <span class="visual-caption">Precision grasping in contact-rich space</span>
+              <span class="visual-caption">Closed-loop manipulation under uncertainty</span>
             </div>
           </article>
-          <article class="research-card research-card--foundation" tabindex="0" aria-label="Embodied foundation models. Hover or focus to reveal an illustration.">
+          <article class="research-card research-card--foundation" tabindex="0" aria-label="Foundation-model robot learning. Hover or focus to reveal an illustration.">
             <div class="research-copy">
               <span class="research-index">03</span>
-              <h3>Embodied foundation models</h3>
-              <p>Exploring learning-based humanoid robotics and Vision–Language–Action models.</p>
+              <h3>Foundation-model robot learning</h3>
+              <p>Adapting foundation models to physical behavior through in-context learning and policy-controller co-design.</p>
             </div>
             <div class="research-visual foundation-visual" aria-hidden="true">
-              <span class="visual-tag">Vision · Language · Action</span>
-              <span class="modality modality--vision"><i class="fa-solid">&#xf06e;</i><b>V</b></span>
-              <span class="modality modality--language"><i class="fa-solid">&#xf075;</i><b>L</b></span>
-              <span class="modality modality--action"><i class="fa-solid">&#xf256;</i><b>A</b></span>
-              <span class="model-orbit model-orbit--one"></span>
-              <span class="model-orbit model-orbit--two"></span>
-              <div class="embodied-robot">
-                <span class="robot-head"><i></i><i></i></span>
-                <span class="robot-body"><b></b><b></b><b></b></span>
+              <span class="visual-tag">In-context adaptation</span>
+              <div class="adaptive-system">
+                <div class="adaptive-orbit">
+                  <span class="adaptive-node adaptive-node--context"><i class="fa-solid">&#xf03a;</i><b>Context</b></span>
+                  <span class="adaptive-node adaptive-node--policy"><i class="fa-solid">&#xf542;</i><b>Policy</b></span>
+                  <span class="adaptive-node adaptive-node--action"><i class="fa-solid">&#xf013;</i><b>Action</b></span>
+                  <span class="adaptive-node adaptive-node--feedback"><i class="fa-solid">&#xf2f1;</i><b>Feedback</b></span>
+                </div>
+                <span class="adaptive-core"><i class="fa-solid">&#xf5dc;</i><b>Foundation<br>Model</b></span>
               </div>
-              <span class="visual-caption">One model, grounded in the world</span>
+              <span class="visual-caption">Context and feedback continuously reshape behavior</span>
             </div>
           </article>
         </div>
@@ -298,7 +298,7 @@
                 <img src="images/thu_logo.svg" alt="Tsinghua University logo">
               </div>
               <h3><a href="https://www.mengdixu.me/">Research Assistant · Xu Lab, IIIS, Tsinghua University</a></h3>
-              <p>Embodied Intelligence · Neuro-symbolic Planning · Vision-Language-Action Models</p>
+              <p>Manipulation · In-Context Learning · Robot Learning</p>
             </article>
 
             <article class="experience-entry">
@@ -307,7 +307,7 @@
                 <img src="images/fins_logo.png" alt="IWIN-FINS Lab logo">
               </div>
               <h3><a href="https://iwin-fins.com/">Research Assistant · IWIN-FINS Lab, Shanghai Jiao Tong University</a></h3>
-              <p>Generative Models · Robot Manipulation · Control</p>
+              <p>Robot Learning · Control · Manipulation</p>
             </article>
 
             <article class="experience-entry">
@@ -346,10 +346,6 @@
         <p class="section-kicker">Updates</p>
         <h2 class="section-title">News</h2>
         <ul class="news-list" id="news-list">
-          <li>
-            <time datetime="2026-08">2026/08</time>
-            <span>Joined the Beijing Academy of Artificial Intelligence (BAAI) as a Research Assistant.</span>
-          </li>
           <li>
             <time datetime="2026-07">2026/07</time>
             <span>Joined Tsinghua University as a Research Assistant.</span>
