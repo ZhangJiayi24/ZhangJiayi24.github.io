@@ -1183,6 +1183,10 @@ a {
   transform: translateY(-1px);
 }
 
+.project-feature + .project-feature {
+  margin-top: 1rem;
+}
+
 .project-meta {
   margin: 0 0 0.65rem;
   color: var(--accent);
